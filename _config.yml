@@ -2,8 +2,8 @@
 name: "Inbig"
 title: "Inbig"
 description: "인하대학교 빅데이터 동아리 Inbig 입니다."
-logo: 'assets/images/inbig1.png'
-favicon: 'assets/images/inbig1.png'
+logo: 'assets/images/inbig2.png'
+favicon: 'assets/images/inbig2.png'
 baseurl: /
 google_analytics: ''
 disqus: 'demowebsite'
