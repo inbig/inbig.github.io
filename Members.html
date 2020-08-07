@@ -5,22 +5,32 @@ layout: default
 <section id="banner">
 
 </section>
-<section id="main" class="wrapper style1">
-     {% for post in site.categories.Members %}
-     <div class="container">
-         <div class="row >">
-             <div class="4u">
-               <header class="major">
-                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-               </header>
-               <section class="container.small">
-                  {{ post.excerpt }}
-                </section>
-                <section class="special">
-                  <ul class="actions">
-                      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-                  </ul>
-                </section>
-              </div>
-      {% endfor %}
+
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Members</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in site.categories.Members %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
 </section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
