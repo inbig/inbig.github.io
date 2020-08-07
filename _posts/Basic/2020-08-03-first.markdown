@@ -2,7 +2,7 @@
 layout: post
 title:  "주피터 노트북 단축키 모음"
 date:   2020-08-02 23:02:44
-categories: [Project]
+categories: [Basic]
 ---
 
 <img src="{{ site.baseurl }}/images/project1.png" class="fit image">
