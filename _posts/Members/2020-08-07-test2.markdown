@@ -5,6 +5,6 @@ date:   2020-08-07 20:02:44
 categories: [Members]
 ---
 
-<img src="{{ site.baseurl }}/images/members/이영빈.jpeg" class="fit image">
+<img src="{{ site.baseurl }}/images/members/이영빈.jpeg" width="900" height="200">
 
 1기 부회장 : 이영빈
