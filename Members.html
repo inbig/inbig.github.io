@@ -6,10 +6,10 @@ layout: default
 
 </section>
 
-<hr class="major" />
-<div class= "row">
-  <div class="col-sm">
-  <section class="main">
+hr class="major" />
+<div class="row">
+    <div class="6u">
+        <section class="special">
      {% for post in site.categories.Members %}
              <div class="6u">
                <section class="container.small">
@@ -20,7 +20,7 @@ layout: default
                   <ul class="actions">
                       <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
                   </ul>
-                </section>
+          </section>
               </div>
       {% endfor %}
     </section>
