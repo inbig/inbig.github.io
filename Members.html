@@ -1,26 +1,19 @@
 ---
 layout: default
 ---
+
 <!-- Banner -->
 <section id="banner">
 
 </section>
-
-hr class="major" />
-<div class="row">
-    <div class="6u">
-        <section class="special">
-     {% for post in site.categories.Members %}
-             <div class="6u">
-               <section class="container.small">
-                  {{ post.excerpt }}
-                </section>
+    <div class="major" />
+    <div class="row">
+        <div class="6u">
+          <section class="special">
+      {% for post in site.categories.Members %}
+            <header>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.excerpt }}</a>
+            </header>
                 <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-                <section class="special">
-                  <ul class="actions">
-                      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-                  </ul>
-          </section>
-              </div>
       {% endfor %}
-    </section>
+    </div>
