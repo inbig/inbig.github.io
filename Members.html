@@ -5,17 +5,15 @@ layout: default
 <section id="banner">
 
 </section>
-<section id="main" class="wrapper style1">
+<section class="special">
      {% for post in site.categories.Members %}
      <div class="container">
          <div class="row">
              <div class="4u">
-               <header class="major">
-                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-               </header>
                <section class="container.small">
                   {{ post.excerpt }}
                 </section>
+                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
                 <section class="special">
                   <ul class="actions">
                       <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
