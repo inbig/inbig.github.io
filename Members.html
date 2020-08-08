@@ -15,22 +15,19 @@ layout: default
         <p>This is In Big</p>
       </header>
 </section>
-
-    </div>
-<section>
-    <div class="row listrecent">
+<section id="main" class=wrapper style 1">
 
         {% for post in site.categories.Members %}
+          <div class="wrapper{ % cycle 'style1' , 'style2' % }">
 
-        <a href="{{ site.baseurl }}{{ post.url }}"><img class="card" src="{{ post.image }}"/ alt="" width="30%" height="30%"></a>
+            <a href="{{ site.baseurl }}{{ post.url }}"><img class="card" src="{{ post.image }}"/ width="30%" height="30%"></a>
 
-        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
 
-
+          </div>
         {% endfor %}
 
-    </div>
 
 </section>
 
