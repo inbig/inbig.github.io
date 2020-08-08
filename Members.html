@@ -18,12 +18,13 @@ layout: default
 <section id="main" class=wrapper style 1">
 
         {% for post in site.categories.Members %}
-          <div class="ol">
-
+          <div class="wrapper {% cycle 'style1', 'style2' %}">
+          <section class="container"
             <a href="{{ site.baseurl }}{{ post.url }}"><img class="card" src="{{ post.image }}"/ width="30%" height="30%"></a>
-
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
+          </section>
+            <header class="major">
+              <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            </header>
 
           </div>
         {% endfor %}
