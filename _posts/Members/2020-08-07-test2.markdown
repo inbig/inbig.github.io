@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "이영빈"
+title:  "강동연"
 date:   2020-08-07 20:02:44
 categories: [Members]
-image : images/members/강동연.jpg
+image : images/members/강동연.jpeg
 
 ---
 
