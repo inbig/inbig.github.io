@@ -21,7 +21,7 @@ layout: default
 
         {% for post in site.categories.Members %}
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="container.small"><img src="./images/members/{{ post.image }}"/>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="container.small"><img src="{{ post.image }}"/>
         <header>
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
