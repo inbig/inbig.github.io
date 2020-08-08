@@ -11,14 +11,14 @@ layout: default
 
     <div class="major">
       <header class="major">
-        <h2>인빅회원.</h2>
-        <p>This is In Big</p>
+        <h2>인빅회원</h2>
+        <p>인빅 회원 프로필입니다.</p>
       </header>
 </section>
 <section id="main" class=wrapper style 1">
 
         {% for post in site.categories.Members %}
-          <div class="wrapper{ % cycle 'style1' , 'style2' % }">
+          <div class="ol">
 
             <a href="{{ site.baseurl }}{{ post.url }}"><img class="card" src="{{ post.image }}"/ width="30%" height="30%"></a>
 
