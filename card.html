@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="widith=device-width ,initial-scale=1">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href=style1.css>
+</head>
+<body>
+  <div class="row">
+    {% for post in site.categories.Members %}
+    <div class="column">
+      <div class="card">
+        <img src="{{ post.image }}"/ style="width:150px;height:auto;padding-top:10px">
+        <h1></h1>
+        <p class='title'>{{ post.title }}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</body>
+<html>
