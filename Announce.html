@@ -11,16 +11,15 @@ layout: default
 
     <div class="major">
       <header class="major">
-        <h2>기초스터디</h2>
-        <p>기초스터디입니다.</p>
+        <h2>공지사항</h2>
+        <p>인빅 공지사항입니다.</p>
       </header>
 </section>
 
-    <div class="post-teaser">
+
       {% for post in site.categories.Announce %}
-            <header>
+                <center>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-            </header>
+                </center>
       {% endfor %}
-    </div>
