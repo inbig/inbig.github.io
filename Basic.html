@@ -16,9 +16,12 @@ layout: default
 </section>
 
       {% for post in site.categories.Basic %}
+        <div class=listrelated>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        </div>
         {% endfor %}
+
 
 
 
