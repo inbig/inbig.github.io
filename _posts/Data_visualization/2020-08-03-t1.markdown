@@ -6,7 +6,7 @@ categories: [Data_visualization]
 ---
 
 <hr>
-<div class="textarea">
+<div class="blockquote">
 
 링크드인의 데이터 과학자 모니카 로가티는 스타트업이 수집한 데이터를 분석할 때 피해야 할 10가지 함정을 제시하고 있다.
 
