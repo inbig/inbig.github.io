@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "기초스터디 세미나 커리큘럼"
-date:   2015-02-06 14:37:44
+date:   2020-08-07 14:37:44
 categories: [Announce]
+author : 조의찬
 ---

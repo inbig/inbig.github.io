@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "기초 파이썬 공부에 도움되는 사이트"
+date:   2020-08-02 23:02:44
+author: 조의찬
+categories: [Basic]
+---
