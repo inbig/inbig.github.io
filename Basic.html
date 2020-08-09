@@ -11,15 +11,15 @@ layout: default
     <div class="major">
       <header class="major">
         <h2>기초스터디</h2>
-        <p>기초스터디입니다.</p>
+        <p>기초 파이썬,데이터분석 관련 포스팅 공간입니다.</p>
       </header>
 </section>
 
       {% for post in site.categories.Basic %}
-        <div class=listrelated>
+                <center>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        </div>
+                </center>
         {% endfor %}
 
 
