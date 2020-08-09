@@ -5,7 +5,7 @@ date:   2020-08-02 23:02:44
 categories: [Basic]
 ---
 
-<img src="{{ site.baseurl }}/images/project1.png" width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/project1.png" width="70%" height="70%">
 
 Notebook의 단축키는 편집 모드용과 명령 모드용이 각각 준비되어 있다.
 편집 모드는 어느 코드 셀이 편집 중인 상태를 가리키며 단축키는 편집 중인 코드 셀에 대해 작용한다.
