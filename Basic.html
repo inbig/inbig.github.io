@@ -14,11 +14,21 @@ layout: default
         <p>This is In Big</p>
       </header>
 </section>
-    <div class="card">
+    <div class="major">
       {% for post in site.categories.Basic %}
             <header>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
             </header>
       {% endfor %}
+    </div>
+
+
+    <!-- Pagination
+    ================================================== -->
+    <div class="bottompagination">
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
     </div>
