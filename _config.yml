@@ -8,5 +8,6 @@ url: "https://inbig.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 google_analytics:
+disqus: 'demowebsite'
 # Build settings
 markdown: kramdown
