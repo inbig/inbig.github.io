@@ -8,16 +8,10 @@ layout: default
                 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
         </header>
 
-        <section class="post-content">
+        <section class="box">
             {{ content }}
         </section>
 
-        <footer>
-            {% if site.categories.previous %}
-            <a href="{{ site.categories.previous.url }}" class="float-left">&larr; Previous post</a> {% endif %}
-            {% if site.categories.next %}
-            <a href="{{ site.categories.next.url }}" class="float-right">Next post &rarr;</a> {% endif %}
-        </footer>
 
     </article>
 
