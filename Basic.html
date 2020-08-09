@@ -14,15 +14,14 @@ layout: default
         <p>기초스터디입니다.</p>
       </header>
 </section>
-  <div class="row">
-      <div class="6u">
-        {% for post in site.categories.Basic %}
-            <header>
+
+      {% for post in site.categories.Basic %}
+        <div class="row">
+            <div class="4u">
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-            </header>
-      {% endfor %}
-    </div>
+        {% endfor %}
+      </div>
 
 
     <!-- Pagination
