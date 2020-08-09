@@ -6,22 +6,30 @@ layout: default
 <section id="banner">
 
 </section>
-
 <section class="wrapper style1">
 
     <div class="major">
       <header class="major">
-        <h2>ML</h2>
-        <p>머신러닝단계입니다.</p>
+        <h2>머신러닝</h2>
+        <p>머신러닝단계 포스팅입니다.</p>
       </header>
 </section>
 
-
-    <div class="post-teaser">
       {% for post in site.categories.ML %}
-            <header>
+                <center>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-            </header>
-      {% endfor %}
+                </center>
+        {% endfor %}
+
+
+
+
+    <!-- Pagination
+    ================================================== -->
+    <div class="bottompagination">
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
     </div>
