@@ -5,8 +5,10 @@ date:   2020-08-02 23:02:44
 categories: [ML]
 ---
 
-<header> 머신러닝이란?<header>
-<blockquote>데이터를 기반으로 패턴을 학습하고 결과를 예측하는 알고리즘 기법이라고 할 수 있다.</blockquote>
+<div class="box">
 
-## 머신러닝이 사용되는 분야?
-이미지 분류
+
+
+
+
+</div>
