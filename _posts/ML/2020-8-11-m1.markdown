@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2020-2학기 인빅 머신러닝단계 커리큘럼
+date:   2020-08-10 09:37:44
+categories: [Data_visualization]
+author: "2020-2 인빅 운영진"
+---
+
+
+<img src="{{ site.baseurl }}/images/m_c.png"  class= "fit image">
+
+## 참고서적 : 머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로
+## 프로젝트 데이터 : 추후 공지예정

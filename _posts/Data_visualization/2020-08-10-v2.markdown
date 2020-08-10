@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2020-2학기 인빅 시각화단계 커리큘럼
+date:   2020-08-10 09:37:44
+categories: [Data_visualization]
+author: "2020-2 인빅 운영진"
+---
+
+
+<img src="{{ site.baseurl }}/images/d_c.png"  class= "fit image">
+
+## 참고서적 : 태블로 굿모닝 눈 , 굿애프터 _ 강승일,송재환
+## 프로젝트 데이터 : 추후 공지예정
