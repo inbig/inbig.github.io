@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2020-2학기 인빅 일정 공지.-9월 일정-"
+date:   2020-08-08 21:17:44
+categories: [Announce]
+author : "2020-2 인빅 운영진"
+---
+
+<img src="{{ site.baseurl }}/images/202009.png"  class= "fit image">
+
+9월 1일~2일 : 인빅 3기 면접 <br>
+9월 4일 : 인빅 3기 OT <br>
+매주 월요일 : 정기 세미나
