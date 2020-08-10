@@ -1,6 +1,0 @@
----
-layout: post
-title:  "머신러닝의 기초개념"
-date:   2020-08-02 23:02:44
-categories: [ML]
----
