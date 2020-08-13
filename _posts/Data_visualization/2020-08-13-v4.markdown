@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "[tableau] 교육용 라이센스로 태블로 무료설치하기 (대학생)"
+date:   2020-08-13 07:02:44
+categories: [Data_visualization]
+author : 조의찬
+---
+|태블로란|
+
+태블로는 대표적인 BI 툴 중 하나다. <br>
+태블로는 데이터분석 결과를 시각화하여 경영의사결정에 큰 도움을 준다.<br>
+때문에 많은 기업들이 태블로를 도입하고 있다. <br>
+태블로는 유료 툴이지만 대학생에게는 학생라이센스를 통해 무료로 제공하고 있다. <br>
+
+
+
+
+
+|태블로 교육용라이센스 받기 1_ 학생용 tableau 사이트 접속|
+
+태블로 교육용라이센스를 받기위해서는 학생용 tableau 사이트에 먼저 접속해야한다. <br>
+
+해당 사이트 링크를 입력하면 편하게 접속 가능하지만 혹여 링크입력이 힘든 상황일 경우를 대비해 다음과 같은 방법도 소개한다. <br>
+
+(학생용 태블로 링크 : https://www.tableau.com/ko-kr/academic/students ) <br>
+
+먼저 태블로 홈페이지에 접속한다. 
+
+<img src="{{ site.baseurl }}/images/v1/v1_1.png" class="fit image">
+
+태블로 홈페이지에 보면 오른쪽 상단에 돋보기모양의 아이콘이 보일 것이다.
+
+<img src="{{ site.baseurl }}/images/v1/v1_2.png" class="fit image">
+
+돋보기 아이콘을 누르고 학생을 입력한다.
+
+<img src="{{ site.baseurl }}/images/v1/v1_3.png" class="fit image">
+
+그러면 다음과 같이 맨위에 학생용 tableau라는 게시글이 보일 것이다. <br>
+
+그 글을 눌러주면 <br>
+
+<img src="{{ site.baseurl }}/images/v1/v1_4.png" class="fit image">
+
+다음과 같이 학생용 tableau페이지에 접속할 수 있다. <br>
+
+|태블로 교육용라이센스 받기 2_ 대학생 라이센스 신청|
+
+
+학생용 태블로 사이트까지 접속한 후 <br>
+
+<img src="{{ site.baseurl }}/images/v1/v1_4.png" class="fit image">
+
+
+배너에 보이는 주황색 버튼 (무료로 tableau받기)를 눌러주면 라이센스 신청창에 접속할 수있다.
+
+
+<img src="{{ site.baseurl }}/images/v1/v1_5.png" class="fit image">
+
+다음 창이 뜨면 이제 본인 정보를 입력해주면 된다. <br>
+
+<img src="{{ site.baseurl }}/images/v1/v1_6.png" class="fit image">
+
+다 입력해주고 주황색버튼을 눌러주면 된다. <br>
+
+그러면 다음과 같이 파일첨부를 할 수있는 창이 뜬다. <br>
+
+<img src="{{ site.baseurl }}/images/v1/v1_7.png" class="fit image">
+
+
+
+choose file 버튼 을 누르고  자신의 대학교,대학원 재학증명서를 첨부파일로 업로드 한 후 <br>  
+
+submit for review 버튼을 눌러주면 신청 작업은 끝이 난다. <br>
+
+태블로에서 신청자가 학생임을 확인하면 위에서 본인이 입력한 이메일로 다음과 같은 형식의 메일이 온다. <br>
+
+<img src="{{ site.baseurl }}/images/v1/v1_8.jpg" class="fit image">
+
+라이센스키가 첨부된 메일을 받으면 성공이다. <br>
+
+이제 태블로를 설치한 후 다음 라이센스키를 입력해주면 무료로 tableau desktop을 이용할 수 있다.  <br>
+
+메일이 바로 올때도 있고 오래 걸릴때도 있다고하는데 평균 1~2일 안에는 메일이 오는 것같다. <br>
+
+학생 라이센스는 1년마다 갱신해야하니 이 점 또한 잊지않도록 하자. <br>
+
+from : datata29.github.io
+
+
+
+
+
+
+
+
+
+
+
+
