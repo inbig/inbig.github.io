@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "test_2"
+date:   2020-08-13 07:02:44
+categories: [Data_visualization]
+author : 강동연
+---
+
+# TEST_2
+
+This is test_2 
+
+HELLO WORLD ^^ 
