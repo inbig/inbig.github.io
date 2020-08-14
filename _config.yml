@@ -4,7 +4,7 @@ email: inbig2019@naver.com
 description: > # this means to ignore newlines until "baseurl:"
   "InBig" : 인하대학교 빅데이터 동아리, 인빅입니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://inbig.github.io/" # the base hostname & protocol for your site
+url: https://inbig.github.io # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 google_analytics: UA-175052880-1
