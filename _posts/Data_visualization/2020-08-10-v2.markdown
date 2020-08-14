@@ -7,7 +7,7 @@ author: "2020-2 인빅 운영진"
 ---
 
 
-<img src="{{ site.baseurl }}/images/d_c.png"  width=60% height=60%>
+<img src="{{ site.baseurl }}/images/d_c.png"  width="60%" height="60%">
 
 ## 참고서적 : 태블로 굿모닝 , 굿애프터 눈_ 강승일,송재환
 ## 프로젝트 데이터 : 추후 공지예정
