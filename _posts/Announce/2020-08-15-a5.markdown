@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "2020-2학기 인빅 일정 공지.-10월 일정-"
+date:   2020-08-15 21:17:44
+categories: [Announce]
+author : "2020-2 인빅 운영진"
+---
+
+<img src="{{ site.baseurl }}/images/202010.png"  class= "fit image">
