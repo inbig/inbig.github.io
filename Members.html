@@ -9,7 +9,7 @@ layout: default
 
 
      {% for post in site.categories.Members %}
-              <code>
+              <card>
                 <section class="container.small">
                   {{ post.excerpt }}
                 </section>
@@ -20,7 +20,7 @@ layout: default
                     <ul class="actions">
                       <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
                     </ul>
-              </code>
+              </card>
       {% endfor %}
 </section>
 
