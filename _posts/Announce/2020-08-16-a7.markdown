@@ -15,7 +15,7 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 인빅'은 이번 학기부터 단계시스템 및 새로운 커리큘럼으로 진행 할 예정 입니다.<br>
 
 <p>
-기초스터디 단계(Basic)<br>
+<code>기초스터디 단계(Basic)</code> <br>
 - Python 기반<br>
 - 4인 4팀<br>
 - 2주차 ~ 10주차까지 팀스터디 진행, 12주차~ 13주차 데이터 실습 프로젝트 진행 (시험 기간 제외)<br>
@@ -24,14 +24,14 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 </p>
 
 <p>
-시각화 단계(Data Visualization)<br>
+<code>시각화 단계(Data Visualization)</code> <br>
 - 태블로를 사용해 데이터 시각화<br>
 - 4인 3팀<br>
 - 2주차 ~ 7주차까지 팀스터디 진행, 10주차~ 13주차 시각화 실습프로젝트 진행 (시험 기간 제외)<br>
 </p>
 
 <p>
-머신러닝 단계(ML)<br>
+<code>머신러닝 단계(ML)</code> <br>
 - 파이썬 머신러닝 패키지 (Scikit-learn, Tensorflow 등)를 이용함<br>
 - 4인 3팀<br>
 - 2주차 ~ 7주차까지 팀스터디 진행, 10주차~ 13주차 머신러닝 실습프로젝트 진행 (시험 기간 제외)<br>
@@ -41,7 +41,7 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 * 각 단계는 팀 스터디와 팀 발표가 함께 진행 될 예정입니다.<br>
 
 <p>
-▶ 어떤 사람들이 지원 가능??<br>
+▶ 어떤 사람들이 지원 가능?<br>
 > 빅데이터에 관심 있으신 분들<br>
 > 평소에 데이터 분석 프로젝트를 진행하고 싶었지만 기회가 없었던 분들<br>
 </p>
@@ -50,12 +50,12 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 ▶ 지원 방법
 
 <기초단계> <br>
-https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link<br>
+https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link <br>
 
 
-<머신러닝 단계> <br>
+<머신러닝단계> <br>
 
-https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link<br>
+https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link <br>
 
 
 
