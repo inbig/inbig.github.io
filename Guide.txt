@@ -1,6 +1,6 @@
 <인빅 블로그 업로드 방법>
 
-1. git pull
+1. git pull origin master
 2. 작업 진행
 3. git add .
 4. git commit -m "자기이름"
