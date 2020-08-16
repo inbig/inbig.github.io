@@ -49,8 +49,8 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 <p>
 ▶ 지원 방법
 
-<기초단계><br>
-<a href = "https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link"></a>
+<기초단계>
+"https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link"<br>
 
 
 <머신러닝 단계>
