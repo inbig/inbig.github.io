@@ -49,17 +49,12 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 </p>
 
 <p>
-▶ 지원 방법 <br>
+* 정기세미나: 매주 월요일 19:30<br>
+세미나는 각 단계마다 격주 로 진행 될 예정입니다.(기초스터디 단계는 2 part으로 나눠 진행 —> 시각화 세미나와 머신러닝 세미나중 선택 )<br>
 
-<기초단계> <br>
-https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link <br>
-
-
-<머신러닝단계> <br>
-
-https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link <br>
-
-
+* 세미나를 위한 장소 대관비가 추가로 사용 될 예정입니다.<br>
+* 1인당 20000원 (한달단위) —> 매달 말 회비를 걷을 예정입니다.<br>
+</p>
 
 <p>
 ▶ 모집 인원<br>
@@ -70,20 +65,26 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8o
 * 시각화단계는 이번학기 추가모집하지 않습니다.<br>
 </p>
 
+
 <p>
-* 정기세미나: 매주 월요일 19:30<br>
-세미나는 각 단계마다 격주 로 진행 될 예정입니다.(기초스터디 단계는 2 part으로 나눠 진행 —> 시각화 세미나와 머신러닝 세미나중 선택 )<br>
+▶ 지원 방법 <br>
 
-* 세미나를 위한 장소 대관비가 추가로 사용 될 예정입니다.<br>
-* 1인당 20000원 (한달단위) —> 매달 말 회비를 걷을 예정입니다.<br>
+<기초단계> <br>
+https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link <br>
 
-<div class=box>
+
+<머신러닝단계> <br>
+
+https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link <br>
+</p>
+
+<p>
 ▶ 지원서 마감 날짜: 8월 30일<br>
 ▶ 면접 날짜: 9월1일 ~ 9월2일 (화,수)<br>
 ▶ OT 일정: 9월 3일 목요일 19:30p.m 주안역 근처 스터디룸<br>
 (OT는 필참입니다.)<br>
 * 코로나19로 인한 장소 대관비용 사용 예정<br>
-</div>
+</p>
 
 <p>
 * 추가적인 질문은 인빅 3기 리쿠르팅 오픈 카톡을 통해 문의주시면 됩니다.<br>
@@ -91,7 +92,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8o
 </p>
 
 오픈 카톡 링크 : 
-https://open.kakao.com/o/swQjSJqc
+https://open.kakao.com/o/swQjSJqc 
 
 <li><a href="https://inbig.github.io/basic/2020/08/10/b3.html">기초스터디 커리큘럼</a></li>
 <li><a href="https://inbig.github.io/data_visualization/2020/08/10/v2.html">시각화단계 커리큘럼</a></li>
