@@ -6,6 +6,7 @@ categories: [Announce]
 author : "2020-2 인빅 운영진"
 ---
 
+<img src="{{ site.baseurl }}/images/a7/poster.jpg"  width="60%" height="60%">
 
 인하대 빅데이터 분석 학회 '인빅' 입니다.<br>
 '인빅'은 데이터 분석 프로젝트 진행과 지속적인 커뮤니티 형성을 목표로 합니다.<br>
@@ -52,13 +53,11 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link"></a>
 
 
-<머신러닝 단계><br>
+<머신러닝 단계>
 
-<a href = "https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link"></a>
+"https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link"<br>
 
-</p>
 
-<br>
 
 <p>
 ▶ 모집 인원<br>
@@ -86,5 +85,4 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 * 추후 코로나 진행상황에 따라 운영방식은 변경될 수 있습니다.<br>
 
 오픈 카톡 링크 : 
-<a href = "https://open.kakao.com/o/swQjSJqc">
-</p>
+https://open.kakao.com/o/swQjSJqc
