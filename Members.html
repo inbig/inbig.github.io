@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
-  <body>
      {% for post in site.categories.Members %}
+      <body>
               <div class="card">
                 <div class="card-image">{{ post.image }}</div>
                 <div class="card-text">
@@ -26,8 +26,9 @@
                       <div class="value">32</div>
                       <div class="type">comments</div>
                   </div>
+                </div>
               </div>
+      </body>
       {% endfor %}
-  </body>
 </html>
 
