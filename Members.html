@@ -9,14 +9,29 @@ layout: default
 
 
      {% for post in site.categories.Members %}
+            <body>
               <div class="card">
-                  {{ post.excerpt }}
-                  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-                  <section class="special">
-                    <ul class="actions">
-                      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-                    </ul>
+                <div class="card-image">{{ post.image }}</div>
+                <div class="card-text">
+                  <span class="date"></span>
+                  <h2>{{ post.title }}</h2>
+
+                </div>
+                <div class="card-stats"></div>
+                  <div class="stat border">
+                      <div class="value">4<sup>m</sup></div>
+                      <div class="type">read</div>
+                  </div>
+                  <div class="stat border">
+                      <div class="value">5123</div>
+                      <div class="type">views</div>
+                  </div>
+                  <div class="stat">
+                      <div class="value">32</div>
+                      <div class="type">comments</div>
+                  </div>
               </div>
+            </body>  
       {% endfor %}
 </section>
 
