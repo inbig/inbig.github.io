@@ -1,15 +1,11 @@
----
-layout: default
----
-<!-- Banner -->
-<section id="banner">
-
-</section>
-<hr>
-
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
      {% for post in site.categories.Members %}
-            <body>
               <div class="card">
                 <div class="card-image">{{ post.image }}</div>
                 <div class="card-text">
@@ -31,7 +27,7 @@ layout: default
                       <div class="type">comments</div>
                   </div>
               </div>
-            </body>  
       {% endfor %}
-</section>
+  </body>
+</html>
 
