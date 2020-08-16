@@ -7,20 +7,20 @@ layout: default
 </section>
 <hr>
 
-<section id="main" class="box">
+
      {% for post in site.categories.Members %}
-     <div class="table">
-               <header class="major">
-                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-               </header>
-               <section class="container.small">
+              <div class="box">
+                <section class="container.small">
                   {{ post.excerpt }}}
                 </section>
+               <header class="major">
+                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+               </header>
                 <section class="special">
                   <ul class="actions">
                       <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
                   </ul>
-                </section>
+                
               </div>
       {% endfor %}
 </section>
