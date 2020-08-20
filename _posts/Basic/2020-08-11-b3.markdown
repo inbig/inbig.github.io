@@ -8,7 +8,7 @@ author: "2020-2 인빅 운영진"
 ---
 
 
-<img src="{{ site.baseurl }}/images/b_c.png"  class= "fit image">
+<img src="{{ site.baseurl }}/images/b_c.png"  width="60%" height="60%" >
 
 ## 참고서적 : 점프 투 파이썬
 (1주~4주) <br>
