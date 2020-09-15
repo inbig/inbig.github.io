@@ -6,51 +6,114 @@ categories: [ML]
 author : 박병현,한영동,이은성,최영효
 ---
 
+<p>머신러닝단계 첫 세미나가 9월 14일 열렸습니다.</p>
+
+
 <img src="{{ site.baseurl }}/images/m2/m2_1.png"  width="60%" height="60%" >
+
+<p>머신러닝 3팀은 "회귀분석이란 무엇인가"라는 주제로 발표를 진행하였습니다.</p>
+
+<p>3팀 팀장인 박병현(1기/ 컴퓨터공학과) 님이 발표를 맡아주셨습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_2.png"  width="60%" height="60%" >
 
+<p>목차는 다음 네개로 이루어져있습니다.</p>
+
+<p>1. 지도학습과 비지도학습 </p>
+
+<p>2. 회귀분석의 정의 및 개념</p>
+
+<p>3. 다중선형회귀분석</p>
+
+<p>4. 과대적합 (overfitting) </p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_3.png"  width="60%" height="60%" >
+
+<p>회귀분석을 알아보기 전에 머신러닝에 대해서 알아보죠</p>
+
+<p> 머신러닝은 크게 2가지로 나눌수있습니다. (강화학습까지하면 3가지)</p>
+
 
 <img src="{{ site.baseurl }}/images/m2/m2_4.png"  width="60%" height="60%" >
 
+<p> 비지도학습,지도학습으로 볼 수 있으며 회귀분석은 이 중에서 지도학습과 깊은 관련이 있습니다.</p>
+
+
 <img src="{{ site.baseurl }}/images/m2/m2_5.png"  width="60%" height="60%" >
 
+<p> 회귀분석의 예시라는 온도 예측, 집값 예측, 주가예측 등이 있겠네요.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_6.png"  width="60%" height="60%" >
+
+<p> 그러면 회귀분석에 대해서 자세히 알아보죠.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_7.png"  width="60%" height="60%" >
 
 <img src="{{ site.baseurl }}/images/m2/m2_8.png"  width="60%" height="60%" >
 
+<p>단순 선형 회귀분석의 회귀식은 다음과 같습니다.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_9.png"  width="60%" height="60%" >
+
+<p> 잔차를 최소화 하여, 예측값이 실제값에 가장 가깝게 하는 것이 목표입니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_10.png"  width="60%" height="60%" >
 
+<p> 회귀선을 구할 때 쓰는 최소제곱법에 대한 설명입니다.</p>
+
+<p> 잔차제곱합 (RSS)에 대한 설명도 제시했습니다.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_11.png"  width="60%" height="60%" >
+
+<p> 머신러닝의 기본적인 개념인 경사하강법에도 잔차제곱합이 사용됨을 알 수 있습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_12.png"  width="60%" height="60%" >
 
 <img src="{{ site.baseurl }}/images/m2/m2_13.png"  width="60%" height="60%" >
 
+<p> 회귀 평가 지표로 가장 많이 쓰이는 MSE에 대한 설명입니다.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_14.png"  width="60%" height="60%" >
 
+
 <img src="{{ site.baseurl }}/images/m2/m2_15.png"  width="60%" height="60%" >
+
+<p> 다중 선형 회귀분석은 '변수가 여러개라는 점"에서 단순 선형 회귀와 구별됩니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_16.png"  width="60%" height="60%" >
 
 <img src="{{ site.baseurl }}/images/m2/m2_17.png"  width="60%" height="60%" >
 
+<p> 두 변량 X,Y의 상관관계의 정도를 나타내는 수치인 '상관계수'에 대한 설명도 제시했습니다.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_18.png"  width="60%" height="60%" >
 
+<p> '보스턴 집값 데이터'를 예로 들어 상관계수에 대해 좀 더 알아봤습니다.</p>
+
 <img src="{{ site.baseurl }}/images/m2/m2_19.png"  width="60%" height="60%" >
+
+<p> 독립변수들이 강한 선형관계에 있을 때 다중공선성이 있다고 합니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_20.png"  width="60%" height="60%" >
 
 <img src="{{ site.baseurl }}/images/m2/m2_21.png"  width="60%" height="60%" >
 
+<p> 과도한 학습은 좋지 못한 예측결과를 야기합니다.</p>
+
+<p> 바로 과대적합 (overfitting) 때문입니다.</p>
+
+
+
 <img src="{{ site.baseurl }}/images/m2/m2_22.png"  width="60%" height="60%" >
 
+
+
+
 <img src="{{ site.baseurl }}/images/m2/m2_23.png"  width="60%" height="60%" >
+
+<p> 과대적합의 해결법으로 교차검증이 있습니다.</p>
+
+<p> 교차 검증의 종류로는 "k-fold, Cross validation" 등이 있습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_24.png"  width="60%" height="60%" >
 
