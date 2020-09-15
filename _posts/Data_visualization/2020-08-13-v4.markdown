@@ -5,6 +5,7 @@ date:   2020-08-13 07:02:44
 categories: [Data_visualization]
 author : 조의찬
 ---
+
 |태블로란|
 
 태블로는 대표적인 BI 툴 중 하나다. <br>
