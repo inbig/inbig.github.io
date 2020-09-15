@@ -34,7 +34,7 @@ author : 박장혁,정봉기,조의찬
 
 <img src="{{ site.baseurl }}/images/v5/v5_6.png"  width="60%" height="60%">
 
-</p>워드클라우드 방법도 있네요.</p>
+<p>워드클라우드 방법도 있네요.</p>
 
 <img src="{{ site.baseurl }}/images/v5/v5_7.png"  width="60%" height="60%">
 
