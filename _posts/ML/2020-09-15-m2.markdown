@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "[세미나 발표 1] 머신러닝 세미나 3팀 - 회귀분석이란 무엇인가 (머신러닝과의 관계성) "
+date:   2020-09-15 07:02:44
+categories: [ML]
+author : 박병현,한영동,이은성,최영효
+---
+
+<img src="{{ site.baseurl }}/images/m2/m2_1.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_2.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_3.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_4.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_5.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_6.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_7.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_8.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_9.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_10.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_11.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_12.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_13.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_14.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_15.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_16.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_17.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_18.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_19.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_20.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_21.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_22.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_23.png"  width="60%" height="60%" >
+
+<img src="{{ site.baseurl }}/images/m2/m2_24.png"  width="60%" height="60%" >
+
