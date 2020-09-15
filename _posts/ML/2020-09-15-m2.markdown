@@ -11,9 +11,9 @@ author : 박병현,한영동,이은성,최영효
 
 <img src="{{ site.baseurl }}/images/m2/m2_1.png"  width="60%" height="60%" >
 
-<p>머신러닝 3팀은 "회귀분석이란 무엇인가"라는 주제로 발표를 진행하였습니다.</p>
+<p> <b>머신러닝 3팀은 "회귀분석이란 무엇인가"라는 주제로 발표를 진행하였습니다.</p>
 
-<p>3팀 팀장인 박병현(1기/ 컴퓨터공학과) 님이 발표를 맡아주셨습니다.</p>
+<p> <b>3팀 팀장인 박병현(1기/ 컴퓨터공학과) 님이 발표를 맡아주셨습니다.</b></p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_2.png"  width="60%" height="60%" >
 
@@ -41,7 +41,7 @@ author : 박병현,한영동,이은성,최영효
 
 <img src="{{ site.baseurl }}/images/m2/m2_5.png"  width="60%" height="60%" >
 
-<p> 회귀분석의 예시라는 온도 예측, 집값 예측, 주가예측 등이 있겠네요.</p>
+<p> 회귀분석의 예시로 온도 예측, 집값 예측, 주가예측 등이 있겠네요.</p>
 
 <img src="{{ site.baseurl }}/images/m2/m2_6.png"  width="60%" height="60%" >
 
