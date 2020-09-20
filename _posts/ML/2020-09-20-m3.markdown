@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[세미나 발표 1] 머신러닝 세미나 3팀 - 회귀분석이란 무엇인가 (머신러닝과의 관계성) "
+title:  "[세미나 발표 1] 머신러닝 세미나 1팀 - 머신러닝의 정의와 종류, 사용분야 "
 date:   2020-09-17 07:02:44
 categories: [ML]
 author : 문지은,손유진,장석우, 정재욱
@@ -9,38 +9,38 @@ author : 문지은,손유진,장석우, 정재욱
 <p>머신러닝단계 첫 세미나가 9월 14일 열렸습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_1.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_1.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_2.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_2.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_3.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_3.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_4.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_4.png"  width="80%" height="80%" >
 
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_5.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_5.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_6.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_6.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_7.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_7.png"  width="80%" height="80%" >
 
-<img src="{{ site.baseurl }}/images/m2/m3_8.png"  width="80%" height="80%" >
-
-
-<img src="{{ site.baseurl }}/images/m2/m3_9.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_8.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_10.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_9.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_11.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_10.png"  width="80%" height="80%" >
 
 
-<img src="{{ site.baseurl }}/images/m2/m3_12.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_11.png"  width="80%" height="80%" >
+
+
+<img src="{{ site.baseurl }}/images/m3/m3_12.png"  width="80%" height="80%" >
 
