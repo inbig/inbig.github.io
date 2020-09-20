@@ -27,8 +27,8 @@ author : 김성아,김경욱,남현정
 
 <img src="{{ site.baseurl }}/images/v6/v6_5.png"  width="80%" height="80%">
 
-<p> 라면의 종류별 평점 비교를 하기 위해, 라면 종류의 개수 비교를 파이차트로 표현했습니다.</p>
-<p> pack, bowl, cup 3개의 종류별로 평점이 높은 나라 10개를 뽑아 차트로 표현했습니다.</p>
+<p> 라면의 종류별 평점 비교를 하기 위해, 라면 종류의 개수 비교를 파이차트로 표현했습니다. </p>
+<p> pack, bowl, cup 3개의 종류별로 평점이 높은 나라 10개를 뽑아 차트로 표현했습니다. </p>
 
 <img src="{{ site.baseurl }}/images/v6/v6_6.png"  width="80%" height="80%">
 
