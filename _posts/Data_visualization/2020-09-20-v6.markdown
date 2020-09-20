@@ -32,4 +32,4 @@ author : 김성아,김경욱,남현정
 
 <img src="{{ site.baseurl }}/images/v6/v6_6.png"  width="80%" height="80%">
 
-<p> 감사합니다.</p>
+
