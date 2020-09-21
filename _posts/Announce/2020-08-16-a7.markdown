@@ -12,10 +12,10 @@ author : "2020-2 인빅 운영진"
 '인빅'은 데이터 분석 프로젝트 진행과 지속적인 커뮤니티 형성을 목표로 합니다.<br>
 Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 
-인빅'은 이번 학기부터 단계시스템 및 새로운 커리큘럼으로 진행 할 예정 입니다.<br>
+'인빅'은 이번 학기부터 단계시스템 및 새로운 커리큘럼으로 진행 할 예정 입니다.<br>
 
 <p>
-기초스터디 단계(Basic)<br>
+<code>기초스터디 단계(Basic)</code> <br>
 - Python 기반<br>
 - 4인 4팀<br>
 - 2주차 ~ 10주차까지 팀스터디 진행, 12주차~ 13주차 데이터 실습 프로젝트 진행 (시험 기간 제외)<br>
@@ -24,40 +24,37 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 </p>
 
 <p>
-시각화 단계(Data Visualization)<br>
+<code>시각화 단계(Data Visualization)</code> <br>
 - 태블로를 사용해 데이터 시각화<br>
 - 4인 3팀<br>
 - 2주차 ~ 7주차까지 팀스터디 진행, 10주차~ 13주차 시각화 실습프로젝트 진행 (시험 기간 제외)<br>
+- 실습 데이터셋은 추후 공개 <br>
 </p>
 
 <p>
-머신러닝 단계(ML)<br>
+<code>머신러닝 단계(ML)</code> <br>
 - 파이썬 머신러닝 패키지 (Scikit-learn, Tensorflow 등)를 이용함<br>
 - 4인 3팀<br>
 - 2주차 ~ 7주차까지 팀스터디 진행, 10주차~ 13주차 머신러닝 실습프로젝트 진행 (시험 기간 제외)<br>
+- 팀세미나 발표 내용은 머신러닝단계 커리큘럼 참고. <br>
 </p>
 
 
 * 각 단계는 팀 스터디와 팀 발표가 함께 진행 될 예정입니다.<br>
 
 <p>
-▶ 어떤 사람들이 지원 가능??<br>
+▶ 어떤 사람들이 지원 가능?<br>
 > 빅데이터에 관심 있으신 분들<br>
 > 평소에 데이터 분석 프로젝트를 진행하고 싶었지만 기회가 없었던 분들<br>
 </p>
 
 <p>
-▶ 지원 방법
+* 정기세미나: 매주 월요일 19:30<br>
+세미나는 각 단계마다 격주 로 진행 될 예정입니다.(기초스터디 단계는 2 part으로 나눠 진행 —> 시각화 세미나와 머신러닝 세미나중 선택 )<br>
 
-<기초단계>
-"https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link"<br>
-
-
-<머신러닝 단계>
-
-"https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link"<br>
-
-
+* 세미나를 위한 장소 대관비가 추가로 사용 될 예정입니다.<br>
+* 1인당 20000원 (한달단위) —> 매달 말 회비를 걷을 예정입니다.<br>
+</p>
 
 <p>
 ▶ 모집 인원<br>
@@ -65,24 +62,38 @@ Python과 Tableau를 기반으로 진행하고 있습니다.<br>
 시간화단계: 0명<br>
 머신러닝단계: 3명<br>
 * 코로나19로 인해 전반기 동아리 진행이 어려웠던 관계로 모집 인원이 제한적인 부분 양해 부탁드립니다.<br>
-*시각화단계는 이번학기 추가모집하지 않습니다.<br>
+* 시각화단계는 이번학기 추가모집하지 않습니다.<br>
+</p>
+
+
+<p>
+▶ 지원 방법 <br>
+
+<기초단계> <br>
+https://docs.google.com/forms/d/e/1FAIpQLSd4fhMa5e25PwuOJsitxECoyyRdDGloM7vMdUUx0_7C3RE5RA/viewform?usp=sf_link <br>
+
+
+<머신러닝단계> <br>
+
+https://docs.google.com/forms/d/e/1FAIpQLSeLHkVKi5KPAoOl9_h98TlZ4KJUHPFWAbaVwp8oOc6X0AYtqg/viewform?usp=sf_link <br>
 </p>
 
 <p>
-* 정기세미나: 매주 월요일 19:30<br>
-세미나는 각 단계마다 격주로 진행 될 예정입니다.(기초스터디 단계는 2 part으로 나눠 진행 —> 시각화 세미나와 머신러닝 세미나중 선택 )<br>
-
-* 세미나를 위한 장소 대관비가 추가로 사용 될 예정입니다.<br>
-* 1인당 20000원 (한달단위) —> 매달 말 회비를 걷을 예정입니다.<br>
-
 ▶ 지원서 마감 날짜: 8월 30일<br>
 ▶ 면접 날짜: 9월1일 ~ 9월2일 (화,수)<br>
 ▶ OT 일정: 9월 3일 목요일 19:30p.m 주안역 근처 스터디룸<br>
 (OT는 필참입니다.)<br>
 * 코로나19로 인한 장소 대관비용 사용 예정<br>
+</p>
 
+<p>
 * 추가적인 질문은 인빅 3기 리쿠르팅 오픈 카톡을 통해 문의주시면 됩니다.<br>
 * 추후 코로나 진행상황에 따라 운영방식은 변경될 수 있습니다.<br>
+</p>
 
 오픈 카톡 링크 : 
-https://open.kakao.com/o/swQjSJqc
+https://open.kakao.com/o/swQjSJqc 
+
+<li><a href="https://inbig.github.io/basic/2020/08/10/b3.html">기초스터디 커리큘럼</a></li>
+<li><a href="https://inbig.github.io/data_visualization/2020/08/10/v2.html">시각화단계 커리큘럼</a></li>
+<li><a href="https://inbig.github.io/ml/2020/08/10/m1.html">머신러닝단계 커리큘럼</a></li>
