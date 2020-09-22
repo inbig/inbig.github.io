@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "InBig 기초스터디 추가 퀴즈 및 안내사항"
+title:  "[2차 세미나] InBig 기초스터디 추가 퀴즈 및 풀이"
 date:   2020-09-21 15:24:00
 categories: [Basic]
 author : 문지은
