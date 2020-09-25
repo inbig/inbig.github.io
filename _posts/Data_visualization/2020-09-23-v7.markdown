@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[세미나 발표 2] 시각화 세미나 3팀 -  "신용카드 데이터"
+title:  "[세미나 발표 2] 시각화 세미나 3팀 - 신용카드 데이터"
 date:   2020-09-15 07:02:44
 categories: [Data_visualization]
 author : 강동연,김은영,이예원,신선우
