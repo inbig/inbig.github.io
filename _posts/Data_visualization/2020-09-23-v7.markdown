@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[세미나 발표 2] 시각화 세미나 3팀 - 신용카드 데이터"
-date:   2020-09-15 07:02:44
+date:   2020-09-23 07:02:44
 categories: [Data_visualization]
 author : 강동연,김은영,이예원,신선우
 ---
@@ -12,59 +12,59 @@ author : 강동연,김은영,이예원,신선우
 
 <img src="{{ site.baseurl }}/images/v7/v7_1.png"  width="80%" height="80%">
 
-<img src="{{ site.baseurl }}/images/v7/v7_2.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_2.PNG"  width="80%" height="80%">
 
 <p> 신용카드 데이터 확인 및 처리, 신용카드 데이터 EDA, 신용카드 데이터 + 외부요인 3 가지의 목차를 확인할 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_3.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_3.PNG"  width="80%" height="80%">
 
 <p> 데이터 확인 후, 결측값 및 환불 데이터는 테블로를 사용할 때 영향을 받지 않기 때문에 처리하지 않은 것을 볼 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_4.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_4.PNG"  width="80%" height="80%">
 
 <p> 연도별 매출 합계, 2017년 요일별 매출 합계를 각각 막대 그래프와 라인 그래프로 표현했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_5.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_5.PNG"  width="80%" height="80%">
 
 <p> 시간대별 매출 합계(평일)를 막대 그래프로 표현했고, 12시, 20시 경에 매출이 가장 높은것을 볼 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_6.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_6.PNG"  width="80%" height="80%">
 
 <p> 시간대별 매출 합계(주말)를 막대 그래프로 표현했고, 평일에 비해 19시 이후에 매출이 더 높은 것을 볼 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_7.png"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v7/v7_8.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_7.PNG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_8.PNG"  width="80%" height="80%">
 
 <p> 특정 일을 기준으로 그 일의 매출 추이를 확인해봤습니다.</p>
 <p> 설날 기준으로 매출 그래프를 확인해봤을때, 설날 당일에 매출 합계가 급 하락하는 것을 볼 수 있고, 설날 직전에 매출이 급 상승하는것을 볼 수 있다.</p>
 <p> 캘린더 차트를 통해서 더욱 쉽게 매출 추이를 확인할 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_9.png"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v7/v7_10.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_9.PNG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_10.PNG"  width="80%" height="80%">
 
 <p> 추석 기준으로 매출 그래프를 확인해봤을때, 추석 당일에 매출 합계가 급 하락하는 것을 볼 수 있고, 추석 직전에 매출이 급 상승하는것을 볼 수 있다.</p>
 <p> 캘린더 차트를 통해서 더욱 쉽게 매출 추이를 확인할 수 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_11.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_11.PNG"  width="80%" height="80%">
 
 <p> 2016, 2017년 크리스마스와 크리스마스 이브의 매출 차이를 보면, 크리스마스 이브날의 매출이 더욱 높게 나오는 것을 볼 수 있다.</p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_12.png"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v7/v7_13.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_12.PNG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_13.PNG"  width="80%" height="80%">
 
-<img src="{{ site.baseurl }}/images/v7/v7_14.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_14.PNG"  width="80%" height="80%">
 
 <p> 특정 기간을 기준으로 기간의 매출 추이를 확인해봤습니다. </p>
 <p> 평창 올림픽 기간과 러시아 월드컵 기간의 매출 추이를 확인해봤을때, 특별한 매출 차이가 없는 것을 확인할 수 있었습니다. </p>
 <p> 두 라인 그래프를 대시보드를 이용해 표현해봤습니다. </p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_15.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_15.PNG"  width="80%" height="80%">
 
 <p> 신용카드 매출 데이터와 소비자 물가 지수를 비교해봤습니다. </p>
 <p> 두 지표를 라인그래프로 표현했고, 지표 전부 우상향 하는 것을 볼 수 있었습니다. </p>
 <p> 이는 즉 매출이 증가함에 따라서 소비자 물가 지수도 함께 증가한다는 것을 볼 수 있었습니다. </p>
 
-<img src="{{ site.baseurl }}/images/v7/v7_16.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v7/v7_16.PNG"  width="80%" height="80%">
 
 
 
