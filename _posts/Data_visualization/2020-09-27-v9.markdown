@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "[세미나 발표 2] 시각화 세미나 1팀 - 신용카드 데이터"
+date:   2020-09-26 09:03:45
+categories: [Data_visualization]
+author : 조의찬,정봉기,박장혁,이채현
+---
+
+<p> 시각화 단계 1팀이 세미나 발표를 진행했습니다.</p>
+
+<p> 발표는 정봉기(수학과/2기)님이 맡았습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_1.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v9/v9_2.JPG"  width="80%" height="80%">
+
+<img src="{{ site.baseurl }}/images/v9/v9_3.JPG"  width="80%" height="80%">
+
+<p> 데이터 시각화 전 브레인스토밍을 진행했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_4.JPG"  width="80%" height="80%">
+
+<p> 요일별 총 매출 합계를 표현하고 있습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_5.JPG"  width="80%" height="80%">
+
+<p> 로그값으로 변환을 통해서 막대 그래프가 한 눈에 들어왔습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_6.JPG"  width="80%" height="80%">
+
+<p> "amount"의 합계를 2 단계로 나눠서 막대 그래프로 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_7.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v9/v9_8.JPG"  width="80%" height="80%">
+
+<p> Top 10 매출 스토어들을 대상으로 요일별 매출 합계를 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_9.JPG"  width="80%" height="80%">
+
+<p>"store 1779" 시간대별 매출을 공휴일과 비공휴일로 분리해 막대그래프로 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_10.JPG"  width="80%" height="80%">
+
+<p>"store 747" 시간대별 매출을 막대 그래프로 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_11.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v9/v9_12.JPG"  width="80%" height="80%">
+
+<p>"store ID"에 따른 공휴일과 비공휴일를 막대 그래프로 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_13.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v9/v9_14.JPG"  width="80%" height="80%">
+
+<p>마지막으로 연도별 매출과 환불 데이터를 표현했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v9/v9_15.JPG"  width="80%" height="80%">
