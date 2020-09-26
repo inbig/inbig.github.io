@@ -21,19 +21,6 @@ layout: default
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
                 </center>
-        {% endfor %}
-
-
-
-
-        { for post in paginator.posts %}
-        <article class="post">
-          <div class="post-content">
-            <h2 class="post-title"><a href=""></a></h2>
-            <p></p>
-            <span class="post-date">&nbsp;&nbsp;&nbsp;</span>
-          </div>
-        </article>
-        {% endfor %}
-  
-        {% include pagination.html %}
+      {% endfor %}
+        
+      {% include pagination.html %}
