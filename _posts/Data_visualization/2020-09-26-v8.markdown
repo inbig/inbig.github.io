@@ -3,12 +3,12 @@ layout: post
 title:  "[세미나 발표 2] 시각화 세미나 2팀 - 신용카드 데이터"
 date:   2020-09-26 09:03:45
 categories: [Data_visualization]
-author : 김성아,김영욱
+author : 김성아,김경욱
 ---
 
 <p> 시각화 단계 2팀이 세미나 발표를 진행했습니다.</p>
 
-<p> 발표는 김영욱님이 맡았습니다.</p>
+<p> 발표는 김경욱님이 맡았습니다.</p>
 
 <img src="{{ site.baseurl }}/images/v8/v8_1.JPG"  width="80%" height="80%">
 <img src="{{ site.baseurl }}/images/v8/v8_2.JPG"  width="80%" height="80%">
