@@ -26,11 +26,14 @@ layout: default
 
 
 
-    <!-- Pagination
-    ================================================== -->
-    <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
+        { for post in paginator.posts %}
+        <article class="post">
+          <div class="post-content">
+            <h2 class="post-title"><a href=""></a></h2>
+            <p></p>
+            <span class="post-date">&nbsp;&nbsp;&nbsp;</span>
+          </div>
+        </article>
+        {% endfor %}
+  
         {% include pagination.html %}
-    </span>
-    </div>
