@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[세미나 발표 2] 머신러닝 세미나 2팀 - 단일퍼셉트론(Single-Layer Perceptron) "
-date:   2020-09-17 07:02:44
+date:   2020-09-28 18:02:22
 categories: [ML]
 author : 주은혁, 권은선, 이선노
 ---
@@ -9,7 +9,7 @@ author : 주은혁, 권은선, 이선노
 <p>머신러닝단계 두번째 세미나가 9월 28일 열렸습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/m4/m4_1.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_1.PNG"  width="80%" height="80%" >
 
 <p> 머신러닝 2팀은 주은혁 회원, 권은선 회원, 이선노 회원으로 구성되어 있습니다.</p>
 
@@ -17,25 +17,25 @@ author : 주은혁, 권은선, 이선노
 
 <p> 세미나 발표주제는 '단일퍼셉트론(Single-Layer Perceptron)'입니다.</p>
 
-<img src="{{ site.baseurl }}/images/m4/m4_2.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_2.PNG"  width="80%" height="80%" >
 
 <P> 가장 먼저 퍼셉트론의 개요에 대해 살펴보았습니다. </P>
 
 <p> 퍼셉트론은 여러개의 신호를 입력받아 하나의 신호를 출력하는 모형이라고 합니다.</p>
 
-<img src="{{ site.baseurl }}/images/m4/m4_3.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_3.PNG"  width="80%" height="80%" >
 
 <P> 다음으로, 용어를 정리했습니다. </P>
 
 <P> 임계치, 가중치, 바이어스, net 값, 활성함수, 뉴런 등에 대해 제대로 이해할 수 있던 시간이었네요. :) </P>
 
-<img src="{{ site.baseurl }}/images/m4/m4_4.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_4.PNG"  width="80%" height="80%" >
 
 <p> 그 다음, 퍼셉트론 알고리즘 구조에 대해 알아보았습니다. </p>
 
 <p> 퍼셉트론의 구조 뿐만 아니라 어떠한 과정을 거치는지 한 눈에 알아볼 수 있었습니다.</p>
 
-<img src="{{ site.baseurl }}/images/m4/m4_5.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_5.PNG"  width="80%" height="80%" >
 
 <p> 연산의 정의에 대해서도 알아보았는데요.</p>
 
@@ -44,13 +44,13 @@ author : 주은혁, 권은선, 이선노
 <p> 또한 활성함수 및 학습연산의 정의는 다음과 같다고 하니 참고해주세요! </p>
 
 
-<img src="{{ site.baseurl }}/images/m4/m4_6.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_6.PNG"  width="80%" height="80%" >
 
-<img src="{{ site.baseurl }}/images/m4/m4_7.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_7.PNG"  width="80%" height="80%" >
 
-<img src="{{ site.baseurl }}/images/m4/m4_8.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_8.PNG"  width="80%" height="80%" >
 
-<img src="{{ site.baseurl }}/images/m4/m4_9.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_9.PNG"  width="80%" height="80%" >
 
 <p> 그리고 단일퍼셉트론 예제를 통하여, 단일퍼셉트론에 대해 더욱 자세히 설명해주셨습니다.</p>
 
@@ -60,7 +60,7 @@ author : 주은혁, 권은선, 이선노
 <p> 바뀐 가중치에 대해 다시 출력값을 계산합니다. </p>
 <p> 최종으로 가중치를 표현합니다. </p>
 
-<img src="{{ site.baseurl }}/images/m4/m4_10.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m4/m4_10.PNG"  width="80%" height="80%" >
 
 <p> 마지막으로 단일퍼셉트론의 한계에 대해 알아보았습니다. </p>
 
