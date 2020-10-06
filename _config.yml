@@ -11,11 +11,3 @@ google_analytics: UA-175052880-1
 disqus: 'demowebsite'
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-paginate # 플러그인 사용을 의미한다.(Jekyll 3)
-  - jekyll-paginate-categories
-
-# pagination settings
-paginate: 7 # 한 페이지당 보여줄 posts 수
-# :num은 페이지마다 번호를 각각 부여한다.
-paginate_path: "/posts/page/:num" # 다음 페이지에 해당하는 URL
