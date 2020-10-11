@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "[세미나 발표 3] 시각화 세미나 2팀 - Korean visitor 데이터"
+date:   2020-10-11 13:03:45
+categories: [Data_visualization]
+author : 김성아,김경욱,최상목
+---
+
+<p> 시각화 단계 2팀이 세미나 발표를 진행했습니다.</p>
+
+<p> 발표는 최상목님이 맡았습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_1.JPG"  width="80%" height="80%">
+
+<p> 태블로의 스토리를 사용해 시각화를 진행했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_2.JPG"  width="80%" height="80%">
+
+<p> 다양한 차트를 통해서 Data EDA를 시각화 했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_3.JPG"  width="80%" height="80%">
+
+<p> 국가 별 방문자수 상위 10를 막대 그래프로 시각화 했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_4.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v11/v11_5.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v11/v11_6.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v11/v11_7.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v11/v11_8.JPG"  width="80%" height="80%">
+
+<p> 방문자 수 상위 top5를 여행 목적 비율, 성별 비율, 나이대별 비율을 라인 차트로 시각화 했습니다.</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_9.JPG"  width="80%" height="80%">
+
+<p> 상위 top5의 국가들의 전년도 동월 대비 성장률과 주요 이슈를 국가별로 표현했습니다.</p>
+<p> ** 필터 설정을 통해서 위의 각 국기들을 누르면 그래프가 변하는 것을 볼 수 있는데... 아쉽습니다...</p>
+
+<img src="{{ site.baseurl }}/images/v11/v11_10.JPG"  width="80%" height="80%">
+
+<p> 감사합니다.</p>
