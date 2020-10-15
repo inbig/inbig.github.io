@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[세미나 발표 2] 머신러닝 세미나 1팀 - CNN"
+title:  "[세미나 발표 3] 머신러닝 세미나 1팀 - CNN"
 date:   2020-10-12 19:30:22
 categories: [ML]
 author : 문지은, 서혜빈, 손유진, 장석우, 정재욱
