@@ -11,3 +11,18 @@ google_analytics: UA-175052880-1
 disqus: 'cec0729@gmail.com'
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-paginate-v2
+
+permalink: '/page/:num/' 
+pagination:
+  enabled: true
+  per_page: 12
+  sort_reverse: true
+  sort_field: 'date'
+  category: 'posts'
+  title: ':title'
+  trail:
+    before: 2
+    after: 2
