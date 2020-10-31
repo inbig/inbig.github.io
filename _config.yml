@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
 
-permalink: /:year/:month/
+permalink: /:path/
 pagination:
   enabled: true
   per_page: 12
