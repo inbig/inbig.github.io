@@ -18,10 +18,10 @@ plugins:
 permalink: '/page/:num/' 
 pagination:
   enabled: true
-  per_page: 12
+  per_page: 8
   sort_reverse: true
   sort_field: 'date'
-  category: 'posts'
+  category: 'post'
   title: ':title'
   trail:
     before: 2
