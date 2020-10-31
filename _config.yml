@@ -15,10 +15,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate-v2
-  
+
 pagination:
   enabled: true
-  per_page: 12
+  per_page: 5
   sort_reverse: true
   sort_field: 'date'
   title: ':title'
