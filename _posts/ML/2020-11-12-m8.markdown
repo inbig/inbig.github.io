@@ -6,11 +6,11 @@ categories: [ML]
 author : 권은선, 주은혁, 이선노
 ---
 
-머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.<br>
+<p>머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m8/1.png"  width="80%" height="80%" >
 
-이 날 2팀은 Recurrent Neural Network(RNN)에 대해 발표해주셨는데요.<br>
+<p>이 날 2팀은 Recurrent Neural Network(RNN)에 대해 발표해주셨는데요.</p>
 
 <img src="{{ site.baseurl }}/images/m8/2.png"  width="80%" height="80%" >
 
