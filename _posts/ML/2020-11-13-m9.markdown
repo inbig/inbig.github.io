@@ -6,7 +6,7 @@ categories: [ML]
 author : 박병현, 이은성, 최영효, 한영동, 김아연
 ---
 
-머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.<br>
+<p>머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m9_1/1.png"  width="80%" height="80%" >
 
