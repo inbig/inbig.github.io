@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "[세미나 발표 3] 머신러닝 세미나 2팀 - Recurrent Neural Network(RNN) "
+date:   2020-11-12 23:52:00
+categories: [ML]
+author : 권은선, 주은혁, 이선노
+---
+
+머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.<br>
+
+<img src="{{ site.baseurl }}/images/m8/1.png"  width="80%" height="80%" >
