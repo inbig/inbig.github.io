@@ -1,0 +1,132 @@
+---
+layout: post
+title:  "[세미나 발표 2] 머신러닝 세미나 1팀 - 역전파(BackPropagation)"
+date:   2020-09-28 18:02:22
+categories: [ML]
+author : 문지은, 손유진, 장석우, 정재욱
+---
+
+<p>머신러닝단계 두번째 세미나가 9월 28일 열렸습니다.</p>
+
+
+<img src="{{ site.baseurl }}/images/m5/m5_1.PNG"  width="80%" height="80%" >
+
+<p> 머신러닝 1팀은 문지은 회원, 손유진 회원, 장석우 회원, 정재욱 회원으로 구성되어 있습니다.</p>
+
+<p> 이 날 발표는 문지은 회원, 정재욱 회원이 담당하였는데요.</p>
+
+<p> 세미나 발표주제는 '역전파(BackPropagation)'입니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_2.PNG"  width="80%" height="80%" >
+
+<P> 역전파의 유래, 동작방식, 수식을 통한 동작방식 순으로 살펴볼 예정입니다. </P>
+
+<img src="{{ site.baseurl }}/images/m5/m5_3.PNG"  width="80%" height="80%" >
+
+<P> 딥러닝의 역사는 1940년대 인간이 기계에 지능을 부여하자는 인공지능으로부터 시작이 되었습니다. </P>
+
+<img src="{{ site.baseurl }}/images/m5/m5_4.PNG"  width="80%" height="80%" >
+
+<p> 최초로 제안된 인공지능은 '퍼셉트론'입니다. </p>
+
+<p> 인간의 뉴런을 본 뜬 최초의 인공신경망 모델로, 1~6의 과정으로 이루어집니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_5.PNG"  width="80%" height="80%" >
+
+<p> 기본 논리 회로는 퍼셉트론을 통해 선형 분리가 가능합니다.</p>
+
+<p> 하지만 단일신경망인 퍼셉트론은 XOR GATE는 구분할 수 없었습니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_6.PNG"  width="80%" height="80%" >
+
+<p> 따라서 인공신경망 기술은 빙하기에 들어서게 됩니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_7.PNG"  width="80%" height="80%" >
+
+<p> 이를 극복하기 위한 방안으로, 다층 퍼셉트론(Multi layer Perceptron)이 고안되었습니다. </p>
+
+<p> 단층 퍼셉트론의 집합이라고 생각하시면 됩니다. </p>
+
+<p> 다층 퍼셉트론은 입력층과 출력층 사이에 은닉층이 존재합니다. 따라서 은닉층의 출력값에 대해 정의할 수 없습니다. </p>
+
+<p> 은닉층에서의 출력값에 대한 맞다, 틀리다를 정의할 수 없다는 것입니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_8.PNG"  width="80%" height="80%" >
+
+<p> 따라서 다시 한 번, 인공지능에 빙하기가 찾아오게 됩니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_9.PNG"  width="80%" height="80%" >
+
+<p> 이를 해결하기 위해 역전파가 등장했습니다. </p>
+
+<p> 보라색 화살표는 순전파, 녹색 화살표는 역전파입니다. 앞에서 살펴보았던 것은 모두 순전파에 해당합니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_10.PNG"  width="80%" height="80%" >
+
+<p> 해당 순서는, 역전파의 순서입니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_11.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m5/m5_12.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m5/m5_13.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m5/m5_14.PNG"  width="80%" height="80%" >
+
+<p> 수기로 작성한 글씨를 바탕으로 신경망에 대해 설명해주셨습니다. </P>
+
+<img src="{{ site.baseurl }}/images/m5/m5_15.PNG"  width="80%" height="80%" >
+
+<p> 데이터의 개수가 많은 경우, 비용함수의 벡터 값이 많아지므로 미분 값을 가중치와 편향에 민감도라고 이해하면 편하다고 합니다.  </P>
+
+<img src="{{ site.baseurl }}/images/m5/m5_16.PNG"  width="80%" height="80%" >
+
+<p> 역전파는 복잡한 기울기 값을 조정해줍니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_17.PNG"  width="80%" height="80%" >
+
+<p> 2를 출력하고자 한다면, 2를 출력하는 값은 올리고 그 외의 값은 다운 그레이드합니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_18.PNG"  width="80%" height="80%" >
+
+<p> 이러한 가정을 가능하게 하는 세 가지 과정(1~3)이 있습니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_19.PNG"  width="80%" height="80%" >
+
+<p> 2라는 값을 출력하기 위해 좀 더 민감하게 변하는 값이 있습니다. 노란색에 해당합니다.</p>
+<p> 거의 안보이는 선은 큰 영향을 미치지 않는다고 보시면 됩니다. </p>
+<p> 가장 연관이 있는 것과, 연관이 없는 것을 잘 조정한다면 효율적인 가중치 업데이트를 할 수 있습니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_20.PNG"  width="80%" height="80%" >
+
+<p> 위와 같은 방법은 2라는 값만을 출력하기 위한 것입니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_21.PNG"  width="80%" height="80%" >
+
+<p> 그래서 2 뿐만 아니라 다른 값이어도 분류할 수 있도록, 가중치를 학습합니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_22.PNG"  width="80%" height="80%" >
+
+<p> 그리고 이 가중치들의 평균 값들은 비용함수읭 음의 기울기와 어떤 정량적 관계에 있습니다. </p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_23.PNG"  width="80%" height="80%" >
+
+<p> 하지만 위까지의 방법은 수 많은 데이터들을 하나하나 학습하기 때문에, 오랜 시간이 소요됩니다.</p>
+
+<p> 따라서 '미니 배치 계산법'으로 검토합니다.</p>
+
+<p> 간략하게 말씀드리면, 100개의 데이터가 있을 때, 10x10으로 만들어 랜덤하게 섞은 후 한 줄 씩 대략적인 비용함수를 계산하는 방법입니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_24.PNG"  width="80%" height="80%" >
+
+<p> 왼쪽은 경사하강법, 오른쪽은 미니 배치 계산법을 통한 확률적 구배하강입니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_25.PNG"  width="80%" height="80%" >
+
+<p> 미니 배치를 통해 대략적인 방향을 정해놓고 내려가기 때문에 빠른 계산을 할 수 있습니다.</p>
+
+<img src="{{ site.baseurl }}/images/m5/m5_26.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m5/m5_27.PNG"  width="80%" height="80%" >
+
+<p> 다음은 수식을 통해 역전파의 동작 방식에 대해 설명해주셨습니다.</p>
+
+<p></p>
+
+<p> 세미나를 위해 고생해주신 ML1팀 모두 고생하셨습니다. :> </p>

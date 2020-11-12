@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination: 
+  enabled: true
 ---
 
 <!-- Banner -->
@@ -21,16 +23,6 @@ layout: default
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
                 </center>
-        {% endfor %}
+      {% endfor %}
 
-
-
-
-    <!-- Pagination
-    ================================================== -->
-    <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        {% include pagination.html %}
-    </span>
-    </div>
+      
