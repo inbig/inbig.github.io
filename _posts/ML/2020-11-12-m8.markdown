@@ -6,7 +6,7 @@ categories: [ML]
 author : 권은선, 주은혁, 이선노
 ---
 
-<p>머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들었습니다.</p>
+<p>머신러닝 세미나가 10월 12일 어느 새 마지막으로 접어들고, 프로젝트가 남았습니다.</p>
 
 <img src="{{ site.baseurl }}/images/m8/m8_1.PNG"  width="80%" height="80%" >
 
