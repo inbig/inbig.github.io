@@ -27,7 +27,7 @@ pagination:
 
 
     {% if paginator.post.categories.Basic.total_pages > 1 %}
-    <div class="pagination">
+    <div class="bottompagination">
         {% if paginator.post.categories.Basic.previous_page %}
             <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
         {% else %}
