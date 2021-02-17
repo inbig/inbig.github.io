@@ -14,24 +14,24 @@ author : 강동연,김은영,신선우
 
 <p> 전체적인 데이터 시각화,나이별 시각화,목적별 시각화,성별별 시각화 순으로 진행했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v12/v12_1.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v12/v12_1.JPG"  width="70%" height="70%">
 
 <p> 방문 비율을 맵차트를 사용해서 시각화를 진행했습니다.</p>
 <p> 필터 기능을 사용해 표의 국가를 클릭하면 맵 차트에서 국가가 강조되도록 진행했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v12/v12_2.JPG"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v12/v12_5.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v12/v12_2.JPG"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/v12/v12_5.JPG"  width="70%" height="70%">
 
 <p> 나이별 시각화를 진행했고, 2019년 나이별 총 방문자 수를 클릭하면 트리맵으로 이루어진 대시보드로 이동하도록 진행했습니다 .</p>
 <p> 세대별 상관관계 그래프를 그려서, 각 세대별로 어떤 세대와 동행하는지에 대해 추측했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v12/v12_3.JPG"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v12/v12_6.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v12/v12_3.JPG"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/v12/v12_6.JPG"  width="70%" height="70%">
 
 <p> 방문 목적별 시각화를 진행했고, 필터 기능을 통해서 각 국가 국기를 클릭하면 그 국가의 내용을 라인 차트로 시각화를 진행했습니다.</p>
 <p> 우측에 화살표 이미지를 클릭하면 목적별 방문자 수를 트리맵 차트 대시보드로 이동하도록 진행했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v12/v12_4.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v12/v12_4.JPG"  width="70%" height="70%">
 
 <p> 성별별 시각화를 파이 차트와 라인차트를 사용해서 진행했습니다.</p>
 

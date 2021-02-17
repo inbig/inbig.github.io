@@ -9,7 +9,7 @@ author : 박병현, 이은성, 최영효, 한영동
 <p>머신러닝단계 두번째 세미나가 9월 28일 열렸습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/m6/m6_1.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_1.PNG"  width="70%" height="70%" >
 
 <p> 머신러닝 3팀은 박병현 회원, 이은성 회원, 최영효 회원, 한영동 회원으로 구성되어 있습니다.</p>
 
@@ -17,29 +17,29 @@ author : 박병현, 이은성, 최영효, 한영동
 
 <p> 세미나 발표주제는 '다중퍼셉트론(MLP)'입니다.</p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_2.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_2.PNG"  width="70%" height="70%" >
 
 <P> 위와 같은 순서로 발표를 진행해주셨습니다.</P>
 
-<img src="{{ site.baseurl }}/images/m6/m6_3.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_3.PNG"  width="70%" height="70%" >
 
 <P> 단층 퍼셉트론은 AND GATE, OR GATE 와 같은 기본 논리 회로만을 선형 분리 할 수 있습니다. </P>
 
 <P> XOR GATE 등은 선형 분리 할 수 없다는 한계점이 있는 것입니다. </P>
 
-<img src="{{ site.baseurl }}/images/m6/m6_4.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_4.PNG"  width="70%" height="70%" >
 
 <p> 따라서 XOR GATE는 단층 퍼셉트론으로는 해결할 수 없기 때문에, 다층 퍼셉트론(MLP)가 필요한 것입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_5.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_5.PNG" width="70%" height="70%" >
 
 <p> 다층 퍼셉트론의 정의입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_6.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_6.PNG" width="70%" height="70%" >
 
 <p> 다층 퍼셉트론의 예시입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_7.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_7.PNG"  width="70%" height="70%">
 
 <p> Keras를 이용하여, ML1팀이 설명했던 수기를 이용한 다중 퍼셉트론을 간단한 예시로 구현을 한 것입니다.  </p>
 
@@ -51,33 +51,33 @@ author : 박병현, 이은성, 최영효, 한영동
 
 <p> Epoch 가 5개이므로, 같은 데이터셋을 다섯 번 학습을 하는 것인데 학습을 할 수록 loss 값이 줄어드는 것을 확인할 수 있습니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_8.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_8.PNG"  width="70%" height="70%" >
 
-<img src="{{ site.baseurl }}/images/m6/m6_9.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_9.PNG"  width="70%" height="70%" >
 
 <p> 이번에는 같은 모델을 Pytorch로 구현했습니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_10.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_10.PNG"  width="70%" height="70%" >
 
 <p> 다음으로는 MLP의 문제점에 대해 살펴보았습니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_11.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_11.PNG"  width="70%" height="70%">
 
 <p> MLP의 문제점인 Overfitting을 막는 첫 번째 방법입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_12.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_12.PNG"  width="70%" height="70%" >
 
 <p> MLP의 문제점인 Overfitting을 막는 두 번째 방법입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_13.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_13.PNG"  width="70%" height="70%" >
 
 <p> MLP의 문제점인 Overfitting을 막는 세 번째 방법입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_14.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_14.PNG"  width="70%" height="70%" >
 
 <p> MLP의 문제점인 Overfitting을 막는 네 번째 방법입니다. </p>
 
-<img src="{{ site.baseurl }}/images/m6/m6_15.PNG"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m6/m6_15.PNG"  width="70%" height="70%">
 
 <p> MLP의 문제점인 Overfitting을 막는 다섯 번째 방법입니다. </p>
 

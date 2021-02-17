@@ -10,58 +10,58 @@ author : 김성아,김경욱
 
 <p> 발표는 김경욱님이 맡았습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_1.JPG"  width="80%" height="80%">
-<img src="{{ site.baseurl }}/images/v8/v8_2.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_1.JPG"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/v8/v8_2.JPG"  width="70%" height="70%">
 
-<img src="{{ site.baseurl }}/images/v8/v8_3.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_3.JPG"  width="70%" height="70%">
 
 <p> "신용카드 데이터" 소개 및 목적을 제시하고 있습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_4.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_4.JPG" width="70%" height="70%">
 
 <p> 데이터 전처리를 진행했습니다. </p>
 <p> 음수 값 제거, 결측값 대체, 숫자 데이터를 문자데이터로 변경했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_5.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_5.JPG"  width="70%" height="70%">
 
 <p> 할부 개월을 고려한 "total_amount"컬럼을 생성했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_6.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_6.JPG"  width="70%" height="70%">
 
 <p> 우수 상점과 부진 상점을 특정 기준으로 설정했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_7.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_7.JPG"  width="70%" height="70%">
 
 <p> 거래 수에 따른 월별 거래 분포를 막대 그래프로 우수 상점과 부진 상점으로 분리해서 표현했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_8.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_8.JPG"  width="70%" height="70%">
 
 <p> 거래 수에 따른 시간대별 거래 분포를 막대 그래프로 우수 상점과 부진 상점으로 분리해서 표현했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_9.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_9.JPG"  width="70%" height="70%">
 
 <p> 계절별 카드거래 수를 우수 상점과 부진 상점으로 분리해서 비교했습니다. </p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_10.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_10.JPG"  width="70%" height="70%">
 
 <p> 우수 상점과 부진 상점의 평일, 주말 카드거래를 비교하고 파이 차트로 표현했습니다.  </p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_11.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_11.JPG"  width="70%" height="70%">
 
 <p> 총 매출에 따른 월별 거래 분포를 막대 그래프로 우수 상점과 부진 상점으로 분리해서 표현했습니다. </p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_12.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_12.JPG"  width="70%" height="70%">
 
 <p> 총 매출에 따른 시간대별 거래 분포를 막대 그래프로 우수 상점과 부진 상점으로 분리해서 표현했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_13.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_13.JPG"  width="70%" height="70%">
 
 <p> 계절별 총 매출을 우수 상점과 부진 상점으로 분리해서 비교했습니다. </p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_14.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_14.JPG"  width="70%" height="70%">
 
 <p> 우수 상점과 부진 상점의 평일, 주말 총 매출을 비교하고 파이 차트로 표현했습니다.  </p>
 
-<img src="{{ site.baseurl }}/images/v8/v8_15.JPG"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v8/v8_15.JPG"  width="70%" height="70%">
 
 <p> 시사점으로는 부진 상점은 대체로 계절적 요인에 크게 받고, 점심과 저녁 시간대 고객이 매출에 큰 영향을 주는 것을 알 수 있습니다. </p>

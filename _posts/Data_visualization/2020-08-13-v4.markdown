@@ -27,21 +27,21 @@ author : 조의찬
 
 먼저 태블로 홈페이지에 접속한다. 
 
-<img src="{{ site.baseurl }}/images/v1/v1_1.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_1.png" width="60%" height="60%">
 
 태블로 홈페이지에 보면 오른쪽 상단에 돋보기모양의 아이콘이 보일 것이다.
 
-<img src="{{ site.baseurl }}/images/v1/v1_2.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_2.png" width="60%" height="60%">
 
 돋보기 아이콘을 누르고 학생을 입력한다.
 
-<img src="{{ site.baseurl }}/images/v1/v1_3.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_3.png" width="60%" height="60%">
 
 그러면 다음과 같이 맨위에 학생용 tableau라는 게시글이 보일 것이다. <br>
 
 그 글을 눌러주면 <br>
 
-<img src="{{ site.baseurl }}/images/v1/v1_4.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_4.png" width="60%" height="60%">
 
 다음과 같이 학생용 tableau페이지에 접속할 수 있다. <br>
 
@@ -50,23 +50,23 @@ author : 조의찬
 
 학생용 태블로 사이트까지 접속한 후 <br>
 
-<img src="{{ site.baseurl }}/images/v1/v1_4.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_4.png" width="60%" height="60%">
 
 
 배너에 보이는 주황색 버튼 (무료로 tableau받기)를 눌러주면 라이센스 신청창에 접속할 수있다.
 
 
-<img src="{{ site.baseurl }}/images/v1/v1_5.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_5.png" width="60%" height="60%">
 
 다음 창이 뜨면 이제 본인 정보를 입력해주면 된다. <br>
 
-<img src="{{ site.baseurl }}/images/v1/v1_6.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_6.png" width="60%" height="60%">
 
 다 입력해주고 주황색버튼을 눌러주면 된다. <br>
 
 그러면 다음과 같이 파일첨부를 할 수있는 창이 뜬다. <br>
 
-<img src="{{ site.baseurl }}/images/v1/v1_7.png" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_7.png" width="60%" height="60%">
 
 
 
@@ -76,7 +76,7 @@ submit for review 버튼을 눌러주면 신청 작업은 끝이 난다. <br>
 
 태블로에서 신청자가 학생임을 확인하면 위에서 본인이 입력한 이메일로 다음과 같은 형식의 메일이 온다. <br>
 
-<img src="{{ site.baseurl }}/images/v1/v1_8.jpg" class="fit image">
+<img src="{{ site.baseurl }}/images/v1/v1_8.jpg" width="60%" height="60%">
 
 라이센스키가 첨부된 메일을 받으면 성공이다. <br>
 
@@ -86,7 +86,7 @@ submit for review 버튼을 눌러주면 신청 작업은 끝이 난다. <br>
 
 학생 라이센스는 1년마다 갱신해야하니 이 점 또한 잊지않도록 하자. <br>
 
-from : datata29.github.io
+from : <li><a href="https://velog.io/@datata29">velog.io/@datata29
 
 
 

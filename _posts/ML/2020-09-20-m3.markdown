@@ -9,7 +9,7 @@ author : 문지은,손유진,장석우, 정재욱
 <p>머신러닝단계 첫 세미나가 9월 14일 열렸습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_1.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_1.png" width="70%" height="70%">
 
 <p> 머신러닝 1팀은 인빅 부회장인 문지은 회원과 손유진, 정재욱, 장석우 회원으로 구성되어있습니다.</p>
 
@@ -17,7 +17,7 @@ author : 문지은,손유진,장석우, 정재욱
 
 <p> 세미나 발표주제는 '머신러닝의 정의와 종류, 사용분야'입니다.</p>
 
-<img src="{{ site.baseurl }}/images/m3/m3_2.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_2.png"  width="70%" height="70%" >
 
 <p> 목차는 다음과 같습니다.</p>
 
@@ -29,10 +29,10 @@ author : 문지은,손유진,장석우, 정재욱
 
 <p> 4. 머신러닝의 활용분야</p>
 
-<img src="{{ site.baseurl }}/images/m3/m3_3.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_3.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_4.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_4.png"  width="70%" height="70%" >
 
 <p>1팀은 헷갈리기 쉬운 머신러닝과 딥러닝,인공지능 개념을 집합으로 표현했습니다.</p>
 
@@ -40,7 +40,7 @@ author : 문지은,손유진,장석우, 정재욱
 
 <p> 인공지능이 가장 큰 개념입니다. 딥러닝은 머신러닝의 하위분야라고 생각해도 되겠네요.</p>
 
-<img src="{{ site.baseurl }}/images/m3/m3_5.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_5.png"  width="70%" height="70%" >
 
 <p> 인공지능의 예로는 알파고가 있습니다.</p>
 
@@ -49,30 +49,30 @@ author : 문지은,손유진,장석우, 정재욱
 <p> 현재는 레벨3에서 레벨 4 사이정도 될 것 같습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_6.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_6.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_7.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_7.png"  width="70%" height="70%" >
 
-<img src="{{ site.baseurl }}/images/m3/m3_8.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_8.png"  width="70%" height="70%" >
 
 <p> 머신러닝과 딥러닝의 차이점을 표로 비교했습니다.</p>
 
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_9.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_9.png"  width="70%" height="70%" >
 
 <p> 머신러닝 시스템은 다음과 같이 3가지가 있습니다.</p>
 
 <p> 지도학습, 비지도학습, 강화학습이며 설명은 위와 같습니다.</p>
 
-<img src="{{ site.baseurl }}/images/m3/m3_10.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_10.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_11.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_11.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m3/m3_12.png"  width="80%" height="80%" >
+<img src="{{ site.baseurl }}/images/m3/m3_12.png"  width="70%" height="70%" >
 
 <p> 강화학습과 관련된  Q function에 대해서 장석우 회원이 보충설명해주었습니다.</p>
 
