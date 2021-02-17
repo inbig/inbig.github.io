@@ -86,7 +86,7 @@ submit for review 버튼을 눌러주면 신청 작업은 끝이 난다. <br>
 
 학생 라이센스는 1년마다 갱신해야하니 이 점 또한 잊지않도록 하자. <br>
 
-from : <li><a href="https://velog.io/@datata29">velog.io/@datata29
+from : <li><a href="https://velog.io/@datata29">velog.io/@datata29 </a></li>
 
 
 
