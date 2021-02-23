@@ -45,5 +45,5 @@ author : 박병현, 이은성, 최영효, 한영동, 김아연
 
 
 
-<img src="{{ site.baseurl }}/images/m10/13.PNG"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/m10/13.png"  width="70%" height="70%">
 
