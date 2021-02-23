@@ -12,57 +12,57 @@ author : 박장혁,정봉기,조의찬
 
 
 
-<img src="{{ site.baseurl }}/images/v5/v5_1.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_1.png"  width="70%" height="70%">
 
-<img src="{{ site.baseurl }}/images/v5/v5_2.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_2.png"  width="70%" height="70%">
 
 <p>발표는 다음 네개의 목차로 이루어집니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/v5/v5_3.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_3.png"  width="70%" height="70%">
 
 <p>데이터 시각화를 위해 먼저 데이터의 구조를 파악합니다.</p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_4.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_4.png"  width="70%" height="70%">
 
 <p>국가별 Brand의 개수를 비교하기 위해 막대차트를 사용한 모습입니다.</p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_5.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_5.png"  width="70%" height="70%">
 
 <p> 다음처럼 하이라이트 테이블을 이용해서 표현할수도 있습니다.</p>
 
 
-<img src="{{ site.baseurl }}/images/v5/v5_6.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_6.png"  width="70%" height="70%">
 
 <p>워드클라우드 방법도 있네요.</p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_7.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_7.png"  width="70%" height="70%">
 
 <p>다음은  라멘의 평점(star)평균을 국가별로 비교한 모습입니다. 막대차트를 이용해서 비교했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_8.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_8.png"  width="70%" height="70%">
 
 <p>태블로의 가장 큰 장점이죠</p>
 <p>지도를 통해 시각화한 모습입니다.</p>
 <p>국가정보가 있기때문에 지도시각화가 가능했습니다.</p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_9.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_9.png"  width="70%" height="70%">
 
-<img src="{{ site.baseurl }}/images/v5/v5_10.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_10.png"  width="70%" height="70%">
 
 <p>가설은 세가지를 세웠는데 확인해볼까요? </p>
 
-<img src="{{ site.baseurl }}/images/v5/v5_11.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_11.png"  width="70%" height="70%">
 
 <p> </p>
-<img src="{{ site.baseurl }}/images/v5/v5_12.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_12.png"  width="70%" height="70%">
 
-<img src="{{ site.baseurl }}/images/v5/v5_13.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_13.png"  width="70%" height="70%">
 
 
-<img src="{{ site.baseurl }}/images/v5/v5_14.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_14.png"  width="70%" height="70%">
 
-<img src="{{ site.baseurl }}/images/v5/v5_15.png"  width="80%" height="80%">
+<img src="{{ site.baseurl }}/images/v5/v5_15.png"  width="70%" height="70%">
 
 <p>발표자료 중 오류가 있었던 내용이나 보충할내용은 수정하여 다음과 같이 정리하였습니다.</p>
 

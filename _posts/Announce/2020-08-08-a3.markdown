@@ -6,7 +6,7 @@ categories: [Announce]
 author : "2020-2 인빅 운영진"
 ---
 
-<img src="{{ site.baseurl }}/images/202008.png"  class= "fit image">
+<img src="{{ site.baseurl }}/images/202008.png"  width="70%" height="70%">
 
 8월 17일 : 인빅 3기 리쿠르팅 시작 <br>
 8월 30일 : 인빅 3기 리쿠르팅 지원마감

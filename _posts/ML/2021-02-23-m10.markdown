@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "[종강 세미나] 머신러닝 세미나 3팀 - 성인 인구조사 소득 예측 대회 "
+date:   2020-12-13 01:35:00
+categories: [ML]
+author : 박병현, 이은성, 최영효, 한영동, 김아연
+---
+
+
+
+<img src="{{ site.baseurl }}/images/m10/1.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/2.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/3.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/4.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/5.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/6.PNG"  width="70%" height="70%" >
+
+<img src="{{ site.baseurl }}/images/m10/7.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/8.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/9.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/10.PNG"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/11.PNG"  width="70%" height="70%" >
+
+
+
+<img src="{{ site.baseurl }}/images/m10/12.PNG"  width="70%" height="70%">
+
+
+
+<img src="{{ site.baseurl }}/images/m10/13.PNG"  width="70%" height="70%">
+
