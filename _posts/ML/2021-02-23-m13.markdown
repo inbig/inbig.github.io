@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2021-1학기 인빅 머신러닝단계 커리큘럼_ 딥러닝,자연어 "
+date:   2021-02-23 09:37:44
+categories: [ML]
+author: "2021-1 인빅 운영진"
+---
+
+
+<img src="{{ site.baseurl }}/images/2021_d.png"  width="60%" height="60%">
+
+## 참고서적 : 시작하세요! 텐서플로 2.0 프로그래밍
+

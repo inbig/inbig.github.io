@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2021-1학기 인빅 머신러닝단계 커리큘럼_ 머신러닝 기초"
+date:   2021-02-23 09:37:44
+categories: [ML]
+author: "2021-1 인빅 운영진"
+---
+
+
+<img src="{{ site.baseurl }}/images/2021_m.png"  width="60%" height="60%">
+
+## 참고서적 : 혼자 공부하는 머신러닝 + 딥러닝
+
