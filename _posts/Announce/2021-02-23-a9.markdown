@@ -1,10 +1,10 @@
---
+---
 layout: post
 title:  "2021-1학기 인빅 4기 리쿠르팅 공지"
 date:   2021-02-23 21:17:44
 categories: [Announce]
 author : "2021-1 인빅 운영진"
---
+---
 
 <img src="{{ site.baseurl }}/images/4_re.jpeg"  width="70%" height="70%" >
 
