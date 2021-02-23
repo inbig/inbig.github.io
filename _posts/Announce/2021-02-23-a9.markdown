@@ -6,7 +6,7 @@ categories: [Announce]
 author : "2021-1 인빅 운영진"
 ---
 
-<img src="{{ site.baseurl }}/images/4_re.jpeg"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/4_re.jpeg"  width="30%" height="30%" >
 
 # 인하대 빅데이터 학회 인빅(inbig) 4기를 모집합니다.> 
 

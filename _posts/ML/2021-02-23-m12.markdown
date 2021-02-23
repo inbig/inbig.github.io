@@ -7,7 +7,7 @@ author: "2021-1 인빅 운영진"
 ---
 
 
-<img src="{{ site.baseurl }}/images/2021_m.png"  width="60%" height="60%">
+<img src="{{ site.baseurl }}/images/2021_m.png"  width="30%" height="30%">
 
 ## 참고서적 : 혼자 공부하는 머신러닝 + 딥러닝
 

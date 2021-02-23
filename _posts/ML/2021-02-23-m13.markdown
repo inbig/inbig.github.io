@@ -7,7 +7,7 @@ author: "2021-1 인빅 운영진"
 ---
 
 
-<img src="{{ site.baseurl }}/images/2021_d.png"  width="60%" height="60%">
+<img src="{{ site.baseurl }}/images/2021_d.png"  width="30%" height="30%">
 
 ## 참고서적 : 시작하세요! 텐서플로 2.0 프로그래밍
 
