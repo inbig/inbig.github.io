@@ -8,40 +8,40 @@ author : 박병현, 이은성, 최영효, 한영동, 김아연
 
 
 
-<img src="{{ site.baseurl }}/images/m10/1.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/1.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/2.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/2.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/3.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/3.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/4.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/4.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/5.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/5.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/6.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/6.png"  width="70%" height="70%" >
 
-<img src="{{ site.baseurl }}/images/m10/7.PNG"  width="70%" height="70%" >
-
-
-<img src="{{ site.baseurl }}/images/m10/8.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/7.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/9.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/8.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/10.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/9.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m10/11.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m10/10.png"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m10/11.png"  width="70%" height="70%" >
 
 
 
-<img src="{{ site.baseurl }}/images/m10/12.PNG"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/m10/12.png"  width="70%" height="70%">
 
 
 

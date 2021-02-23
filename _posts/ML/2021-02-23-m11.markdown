@@ -8,30 +8,30 @@ author : 권은선, 이선노, 주은혁
 
 
 
-<img src="{{ site.baseurl }}/images/m11/1.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/1.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/2.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/2.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/3.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/3.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/4.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/4.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/5.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/5.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/6.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/6.png"  width="70%" height="70%" >
 
-<img src="{{ site.baseurl }}/images/m11/7.PNG"  width="70%" height="70%" >
-
-
-<img src="{{ site.baseurl }}/images/m11/8.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/7.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/9.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/8.png"  width="70%" height="70%" >
 
 
-<img src="{{ site.baseurl }}/images/m11/10.PNG"  width="70%" height="70%" >
+<img src="{{ site.baseurl }}/images/m11/9.png"  width="70%" height="70%" >
+
+
+<img src="{{ site.baseurl }}/images/m11/10.png"  width="70%" height="70%" >
