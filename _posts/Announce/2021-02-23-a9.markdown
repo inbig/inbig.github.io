@@ -39,8 +39,10 @@ Python 기반 <br>
 <구글 플랫폼><br>
 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiNr10FPmQqz0GWFJ7v73jISP_gMUPkgHuJcyrxEGQZv6MAA/viewform?usp=sf_link">4기 지원링크  </a></li>
 
+<br><br><br>
 
 ### 모집 인원
+
 기초스터디: 12명 <br>
 시각화 : 0명 <br>
 머신러닝 입문 : 5명 <br>
