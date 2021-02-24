@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "[데이콘] 타이타닉 생존자 예측 간단코드"
+date:   2021-02-24 09:37:44
+categories: [Basic]
+author: "1기 박병현"
+---
+
+https://dacon.io <br>
+데이콘이라는 데이터 경진대회 사이트가 있습니다!<br>
+혹시 캐글이라는 사이트를 아신다면 , 한국판 캐글이라고 생각하시면 편할 것 같습니다.<br><br><br>
+
+스폰서들이 어떠한 주제로 대회를 열면, <br>
+좋은 분석 결과를 나타낸 상위 몇명에게 상금을 주어지는 경진대회가 매달 열립니다 . <br><br><br>
+
+
+여기서 해커톤 이라는 곳에는 , 상금은 없는 연습용 대회이고 , <br>
+분석이 비교적 간단하고 쉬운 주제들의 분석대회가 많이 존재합니다. <br>
+물론 제출시에 자신의 등수 또한 볼 수 있습니다!<br><br><br>
+
+저는 그 중에서 가장 입문하기 쉬운 타이타닉 생존 예측에 대한 코드를 올리고자 합니다.<br><br><br>
+
+
+위 첨부파일은 제가 데이터분석 처음 해봤을때 했던 타이타닉 주피터 노트북 코드입니다 . (주피터 노트북 , ipynb)<br><br><br>
+
+최대한 쉽게 구현해봤었습니다 . 어느정도 주석과 설명은 넣었지만 , 좀 부족할 수 있어서 ,<br>
+단순 참고용으로 보시면 좋을 것 같습니다 ! <br><br><br>
+
+그리고 아래 링크 영상의 도움을 많이 받았었습니다 . <br>
+타이타닉 분석을 해보고자 하신다면 ,  아마 아래영상을 보시면 정말 많은 도움이 될 것 같습니다!<br>
+https://www.youtube.com/watch?v=aqp_9HV58Ls&t=264s <br><br><br>
+
+
+혹시 궁금하신내용 있으시거나 추가적으로 궁금하신 내용 있으시다면<br>
+카톡이나 1:1대화 주시면 최대한 도움 드리겠습니다!<br><br><br>
+
+
+
+<img src="{{ site.baseurl }}/images/b9/1.png"  width="70%" height="70%">
+
+<img src="{{ site.baseurl }}/images/b9/2.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/3.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/4.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/5.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/6.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/7.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/8.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/9.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/10.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/11.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/12.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/13.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/14.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/15.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/16.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/17.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/18.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/19.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/20.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/21.png"  width="70%" height="70%">
+<img src="{{ site.baseurl }}/images/b9/22.png"  width="70%" height="70%">
+
+<img src="{{ site.baseurl }}/images/b9/23.png"  width="70%" height="70%">
+
+<img src="{{ site.baseurl }}/images/b9/24.png"  width="70%" height="70%">
+
+<img src="{{ site.baseurl }}/images/b9/25.png"  width="70%" height="70%">
+
+<img src="{{ site.baseurl }}/images/b9/26.png"  width="70%" height="70%">
+
+
+https://www.kaggle.com/c/titanic/submit <br><br><br>
+
+여기에 Titatnic_Submit파일 제출 가능 및 정답률 확인 가능. <br>
+건드린것이 전혀 없어서 정확도는 비교적 낮습니다.<br><br><br>
+
+제가 이 코드로 제출해보니 정확도는 0.72727점 나왔습니다 .<br><br><br>
+
+이 점수가 의미하는게 정확도가 72%라는것입니다.<br><br><br>
+
+캐글은 이미 답을 알고 있고 , 저희가 제출한 submit파일에 있는<br>
+418개의 행중에 72%가 정답을 맞췄다는 것입니다.<br><br><br>
+
+더 좋은 전처리와 데이터변환을 해주고 , 더 좋은 모델과 파라미터를 사용하면<br>
+점수는 더욱 오를것입니다 . <br><br><br>
+
+더 높은 정확도를 원하시면 Name , Cabin, Ticket등 쓰지 않은 변수들을 사용하시면 됩니다 . <br><br><br>
+
+Kaggle홈페이지 -> Notebooks 에서
+titanic tutorial검색하시면 더 자세한 , 구체적인 코드 보실 수 있습니다<br><br><br>
+
+# 인빅 공식 구글드라이브에 코드 올려놨습니다.
+# 심화 코드 또한 인빅 드라이브에 업로드 해놨으니 참고하시면 됩니다.

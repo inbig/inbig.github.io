@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "데이터 직군 분류"
+date:   2021-02-24 09:37:44
+categories: [Basic]
+author: "1기 이영빈"
+---
+
+<img src="{{ site.baseurl }}/images/guide1.jpg"  width="50%" height="50%">
