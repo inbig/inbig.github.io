@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "[2차 세미나] 기초스터디 4팀 - Python 반복문 "
+date:   2021-04-01 09:37:44
+categories: [Basic]
+author: "4기 한지용,이지연,박윤서,배수찬"
+---
+
+<img src="{{ site.baseurl }}/images/b11/1.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/2.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/3.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/4.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/5.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/6.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/7.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/8.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/9.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/10.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/11.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/12.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/13.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/14.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/15.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/16.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/17.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/18.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/19.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/20.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/21.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/22.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b11/23.png"  width="50%" height="50%">
+
+
+
+
