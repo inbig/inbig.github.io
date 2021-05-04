@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "[3차 세미나] 기초스터디 4팀 - 백준 1009번 문제풀이 "
+date:   2021-05-03 09:37:44
+categories: [Basic]
+author: "4기 한지용,이지연,박윤서,배수찬"
+---
+
+<img src="{{ site.baseurl }}/images/b15/1.png"  width="50%" height="50%">
+
+
+<img src="{{ site.baseurl }}/images/b15/2.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/3.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/4.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/5.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/6.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/7.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b15/8.png"  width="50%" height="50%">
