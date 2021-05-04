@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "[2차 세미나] 머신러닝 1팀 - 다중회귀, 릿지회귀, 라쏘회귀, 로지스틱회귀"
+date:   2021-04-01 01:35:00
+categories: [ML]
+author : 3기 심현지, 이충성 ,  4기 박찬규 , 허건혁 
+---
+
+
+
+<img src="{{ site.baseurl }}/images/m15/1.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/2.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/3.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/4.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/5.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/6.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/7.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/8.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/9.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/10.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/11.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m15/12.png"  width="50%" height="50%" >

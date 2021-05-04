@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "[3차 세미나] 머신러닝 3팀 - 주성분분석"
+date:   2021-05-01 01:35:00
+categories: [ML]
+author : 4기 이병훈, 3기 김민석 , 2기 서혜빈, 신선우 
+---
+
+
+
+<img src="{{ site.baseurl }}/images/m16/1.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/2.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/3.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/4.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/5.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/6.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/7.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/8.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/9.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/10.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/11.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/12.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/13.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/14.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/15.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/16.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/17.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/18.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/19.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/20.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/21.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/22.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/23.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/24.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/25.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/26.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/27.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/28.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m16/29.png"  width="50%" height="50%" >

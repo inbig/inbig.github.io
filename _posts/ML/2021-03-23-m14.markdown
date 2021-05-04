@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "[1차 세미나] 머신러닝 1팀 - 전처리의 종류"
+date:   2021-03-23 01:35:00
+categories: [ML]
+author : 3기 심현지, 이충성 ,  4기 박찬규 , 허건혁 
+---
+
+
+
+<img src="{{ site.baseurl }}/images/m14/1.png"  width="50%" height="50%" >
+
+<img src="{{ site.baseurl }}/images/m14/2.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/3.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/4.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/5.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/6.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/7.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/8.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/9.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/10.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/11.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/12.png"  width="50%" height="50%" >
+<img src="{{ site.baseurl }}/images/m14/13.png"  width="50%" height="50%" >
