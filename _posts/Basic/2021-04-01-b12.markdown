@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "[2차 세미나] 기초스터디 1팀 - PYTHON 반복문 "
+date:   2021-04-01 09:37:44
+categories: [Basic]
+author: "4기 곽수연,서정화,김민서,방진우"
+---
+
+<img src="{{ site.baseurl }}/images/b12/1.png"  width="50%" height="50%">
+
+<img src="{{ site.baseurl }}/images/b12/2.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/3.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/4.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/5.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/6.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/7.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/8.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/9.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/10.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/b12/11.png"  width="50%" height="50%">
