@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[3차 세미나] 기초스터디 2팀 - PYTHON 클래스 "
-date:   2021-04-08 09:37:44
+date:   2021-05-03 09:37:44
 categories: [Basic]
 author: "4기 장효서,김수정,임지수"
 ---

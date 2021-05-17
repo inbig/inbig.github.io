@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "[1차 세미나] 시각화 세미나 3팀 - 암환자 데이터 분석"
+date:   2021-03-21 13:03:45
+categories: [Data_visualization]
+author : 3기 정재욱 김민서 김현경
+---
+
+<img src="{{ site.baseurl }}/images/v15/1.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/2.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/3.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/4.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/5.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/6.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/7.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v15/8.png"  width="50%" height="50%">
+

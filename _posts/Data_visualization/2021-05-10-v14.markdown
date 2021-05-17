@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[1차 세미나] 시각화 세미나 2팀 - 암환자 데이터 분석"
+date:   2021-03-21 13:03:45
+categories: [Data_visualization]
+author : 1기 한영동 2기 김동찬 김지현
+---
+
+
+<img src="{{ site.baseurl }}/images/v14/1.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/2.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/3.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/4.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/5.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/6.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/7.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/8.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/9.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/10.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/11.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/12.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/13.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/14.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/15.png"  width="50%" height="50%">
+<img src="{{ site.baseurl }}/images/v14/16.png"  width="50%" height="50%">
