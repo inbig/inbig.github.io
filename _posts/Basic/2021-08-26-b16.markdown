@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2021-2학기 인빅 기초단계 커리큘럼"
+date:   2021-08-23 09:37:44
+categories: [Basic]
+author: "2021-2 인빅 운영진"
+---
+
+
+<img src="{{ site.baseurl }}/images/2021_2_b.jpeg"  width="30%" height="30%">
+
+## 참고서적 : 데이터 사이언스 핸드북
+
